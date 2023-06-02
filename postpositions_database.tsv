@@ -1,0 +1,982 @@
+language	branch	postposition	postp_id	meaning	type (spatial, temporal, abstract)	source pos	government (nouns)	government (pronouns)	directionality	adverbial use (yes/no)	borrowed (yes/no)	agreement	agreement_stem	agreement_slot	comment	reference
+Chechen	Nakh	juq'a	1	into the middle	spatial	noun	dative?	dative?	1	1	0	0	0			Maciev 1961: 610, Desheriev 1963: 488, Nichols 1994: 29
+Chechen	Nakh	juq'a	1	into	spatial	noun	dative?	dative?	1	1	0	0	0			Maciev 1961: 610, Desheriev 1963: 488, Nichols 1994: 29
+Chechen	Nakh	metta	2	instead	abstract	noun	genitive	genitive		0	0	0	0			Maciev 1961, Nichols 1994: 29
+Chechen	Nakh	t'æħæ	3	after	spatial	noun	comparative	comparative		1	0	0	0			Maciev 1961: 610, Nichols 1994: 29, Molochieva, Komen in progress: 22
+Chechen	Nakh	ču	4	in(to)	spatial	noun	absolutive	absolutive	1	1	0	0	0			Maciev 1961: 609, Desheriev 1963: 488, Molochieva, Komen in progress: 22
+Chechen	Nakh	ču	4	in(to)	spatial	noun	dative	dative	1	1	0	0	0			Maciev 1961: 609, Desheriev 1963: 488, Molochieva, Komen in progress: 22
+Chechen	Nakh	ara	5	out of	spatial	noun	comparative	comparative	1	1	0	0	0			Maciev 1961: 609
+Chechen	Nakh	ara	5	outside	spatial	noun	comparative	comparative	1	1	0	0	0			Maciev 1961: 609
+Chechen	Nakh	ara	5	out of	spatial	noun	ablative	ablative	1	1	0	0	0			Yakovlev 1940: 141
+Chechen	Nakh	ara	5	outside	spatial	noun	ablative	ablative	1	1	0	0	0			Yakovlev 1940: 141
+Chechen	Nakh	t'e	6	on(to)	spatial	noun	absolutive	absolutive	1	1	0	0	0			Yakovlev 1940: 141, Desheriev 1943: 488
+Chechen	Nakh	t'e	6	on(to)	spatial	noun	dative	dative	1	1	0	0	0			Yakovlev 1940: 141, Molochieva, Komen in progress: 22, Desheriev 1943: 488
+Chechen	Nakh	k'el	7	under	spatial	noun	absolutive	absolutive	1	1	0	0	0			Yakovlev 1940: 141, Desheriev 1963: 488
+Chechen	Nakh	k'el	7	under	spatial	noun	dative	dative	1	1	0	0	0			Yakovlev 1940: 141, Desheriev 1963: 488
+Chechen	Nakh	ħalxa	8	in front of	spatial	noun	dative?	dative?	1	1	0	0	0			Maciev 1961: 610, Desheriev 1963: 488
+Chechen	Nakh	t'eħa	9	behind	spatial	noun	dative?	dative?	1	1	0	0	0			Maciev 1961: 610, Desheriev 1963: 488
+Chechen	Nakh	jux:e(ħ)	10	next to	spatial	noun	dative	dative	1	1	0	0	0			Maciev 1961
+Chechen	Nakh	jux:e(ħ)	10	near	spatial	noun	dative	dative	1	1	0	0	0			Maciev 1961
+Chechen	Nakh	ul:o(ħ)	11	next to	spatial		dative	dative	1	1	0	0	0			Yakovlev 1940: 141, Maciev 1961
+Chechen	Nakh	ul:ie	11	next to	spatial		dative	dative	1	1	0	0	0			Yakovlev 1940: 141, Maciev 1961
+Chechen	Nakh	ul:o(ħ)	11	near	spatial		dative	dative	1	1	0	0	0			Yakovlev 1940: 141, Maciev 1961
+Chechen	Nakh	ul:ie	11	near	spatial		dative	dative	1	1	0	0	0			Yakovlev 1940: 141, Maciev 1961
+Chechen	Nakh	gerg(:)a(ħ)	12	near	spatial		dative?	dative?	1	1	0	0	0			Maciev 1961: 610, Desheriev 1963: 141
+Chechen	Nakh	gen(:)a(ħ)	13	afar	spatial		dative?	dative?	1	1	0	0	0			Maciev 1961
+Chechen	Nakh	læcna	14	about	abstract	verb	locative	locative		0	0	0	0			Yakovlev 1940,  Maciev 1961, Molochieva, Komen in progress: 22
+Chechen	Nakh	læcna	14	in connection with	abstract	verb	locative	locative		0	0	0	0			Yakovlev 1940,  Maciev 1961, Molochieva, Komen in progress: 22
+Chechen	Nakh	læcna	14	about	abstract	verb	lative	lative		0	0	0	0			Yakovlev 1940,  Maciev 1961, Molochieva, Komen in progress: 22
+Chechen	Nakh	læcna	14	in connection with	abstract	verb	lative	lative		0	0	0	0			Yakovlev 1940,  Maciev 1961, Molochieva, Komen in progress: 22
+Chechen	Nakh	ħoq'eħ	15	about	abstract	noun	genitive	genitive		0	0	0	0			Maciev 1961
+Chechen	Nakh	ħoq'eħ	15	about	abstract	noun	nominative	nominative		0	0	0	0			Maciev 1961
+Chechen	Nakh	t'exula	16	above	spatial		dative	dative	1	1	0	0	0			Maciev 1961, Molochieva, Komen in progress: 22
+Chechen	Nakh	dy:na	17	since	temporal		locative	locative		1	0	0	0			Maciev 1961, Molochieva, Komen in progress: 22
+Chechen	Nakh	qačːalc	18	up to	spatial		dative	dative		0	0	0	0			Maciev 1961
+Chechen	Nakh	ħaežːina	19	with respect to	abstract		allative	allative			0	0	0			Molochieva, Komen in progress: 22
+Chechen	Nakh	düezna	20	connected with	abstract	verb	instrumental	instrumental		0	0	0	0			Molochieva, Komen in progress: 22
+Chechen	Nakh	düezna	20	connected with	abstract	verb	lative	lative		0	0	0	0			Maciev 1961
+Chechen	Nakh	cħaena	21	together with	abstract		instrumental	instrumental		1	0	0	0			Maciev 1961, Molochieva, Komen in progress: 22
+Chechen	Nakh	guonaχa	22	around	spatial		dative	dative		1	0	0	0			Molochieva, Komen in progress
+Chechen	Nakh	düħa	23	for the sake of	abstract		genitive	genitive		0	0	0	0			Maciev 1961, Aliroev 1999, Molochieva, Komen in progress: 22
+Chechen	Nakh	düħal	24	against	abstract		lative	lative		1	0	0	0			Maciev 1961, Molochieva, Komen in progress: 22
+Batsbi	Nakh	juq'	25	between	spatial	noun	dative	dative		1	0	0	0			Holisky, Gagua 1994: 169, Hauk 2020
+Batsbi	Nakh	k'ik'el	26	(from) under	spatial	noun	dative	dative	1	1	0	0	0			Holisky, Gagua 1994: 169, Hauk 2020
+Batsbi	Nakh	mak	27	on	spatial		dative	dative		1	0	0	0			Holisky, Gagua 1994: 168
+Batsbi	Nakh	mak	27	about	abstract		dative	dative		1	0	0	0			Holisky, Gagua 1994: 168
+Batsbi	Nakh	ħatx(e)	28	in front of	spatial		dative	dative		1	0	0	0			Holisky, Gagua 1994: 169, Hauk 2020
+Batsbi	Nakh	t'q'uiħ(e)	29	behind	spatial		dative	dative	1	1	0	0	0			Holisky, Gagua 1994: 169, Hauk 2020
+Batsbi	Nakh	t'q'uiħ(e)	29	after	temporal		dative	dative		1	0	0	0			Holisky, Gagua 1994: 169, Hauk 2020
+Batsbi	Nakh	re_n	30	from	spatial		oblique stem	oblique stem		0	0	0	0		is used only with sg	Holisky, Gagua 1994: 169
+Batsbi	Nakh	re_n	30	from	spatial		genitive	genitive		0	0	0	0		is used only with sg	Hauk, Harris in progress: 29
+Batsbi	Nakh	re_n	30	from	spatial		allative	allative		0	0	0	0		is used only with sg	Hauk, Harris in progress: 29
+Batsbi	Nakh	xi_n	31	from	spatial		oblique stem	oblique stem		0	0	0	0		is used only with pl	Holisky, Gagua 1994: 169
+Batsbi	Nakh	xi_n	31	from	spatial		genitive	genitive		0	0	0	0		is used only with pl	Hauk, Harris in progress: 29
+Batsbi	Nakh	guiħ	32	towards	spatial		oblique stem	oblique stem		0	0	0	0			Holisky, Gagua 1994: 169, Hauk 2020
+Batsbi	Nakh	ču(ħ)	33	to/at someone ('s place)	spatial		oblique stem	oblique stem		1	0	0	0			Holisky, Gagua 1994: 169
+Batsbi	Nakh	pex	34	next to	spatial		dative	dative		0	0	0	0			Holisky, Gagua 1994: 169
+Batsbi	Nakh	penix	35	next to	spatial		dative	dative		1	0	0	0			Holisky, Gagua 1994: 170
+Batsbi	Nakh	doli_n	36	after	spatial		oblique stem	oblique stem		1	0	0	0			Hauk, Harris in progress: 29
+Batsbi	Nakh	gomci_n	37	as far as	spatial		oblique stem	oblique stem			0	0	0			Hauk, Harris in progress: 29
+Batsbi	Nakh	mci_n	38	up to	spatial		allative	allative		0	0	0	0			Holisky, Gagua 1994: 170, Hauk, Harris in progress: 29
+Batsbi	Nakh	mci_n	38	up to	spatial		allative II	allative II		0	0	0	0			Holisky, Gagua 1994: 170, Hauk, Harris in progress: 29
+Batsbi	Nakh	mple_n	39	as much as	abstract		dative	dative		0	0	0	0			Holisky, Gagua 1994: 170, Hauk, Harris in progress: 29, Hauk 2020
+Batsbi	Nakh	mple_n	39	as much as	abstract		oblique stem	oblique stem		0	0	0	0			Holisky, Gagua 1994: 170
+Batsbi	Nakh	mple_n	39	as much as	abstract		genitive	genitive		0	0	0	0			Hauk, Harris in progress: 29, Hauk 2020
+Batsbi	Nakh	dal:a	40	because of	abstract		dative	dative			0	0	0			Holisky, Gagua 1994: 170
+Batsbi	Nakh	aino	41	for	abstract		dative	dative			0	0	0			Holisky, Gagua 1994: 170, Hauk, Harris in progress: 29
+Batsbi	Nakh	aino	41	for	abstract		adverbial	adverbial			0	0	0			Hauk, Harris in progress: 29
+Batsbi	Nakh	ču	42	in(side)	spatial	noun	genitive	genitive		1	0	0	0			Hauk, Harris in progress: 29, Hauk 2020
+Batsbi	Nakh	sa_n	43	like	abstract		does not govern case	does not govern case		0	0	0	0			Holisky, Gagua 1994: 170
+Batsbi	Nakh	juxe(ħ)	44	beside	spatial		dative	dative			0	0	0			Hauk, Harris in progress: 29, Hauk 2020
+Batsbi	Nakh	da(ħ)	45	from	spatial		adverbial	adverbial		1	0	0	0			Hauk, Harris in progress: 29, Hauk 2020, Desheriev 1963: 488
+Batsbi	Nakh	čuiħ	46	inside	spatial		cont	cont		1	0	0	0			Hauk, Harris in progress: 29
+Batsbi	Nakh	bede_n	47	except	abstract		does not govern case	does not govern case		0	0	0	0			Holisky, Gagua 1994: 170
+Batsbi	Nakh	diwħ	48	across	spatial		cont	cont		1	0	0	0			Desheriev 1953: 211
+Batsbi	Nakh	diwħ	48	across	spatial		absolutive	absolutive		1	0	0	0			Desheriev 1953: 211
+Ingush	Nakh	k'al	49	under	spatial		dative	dative	1	1	0	0	0			Desheriev 1963: 488, Nichols 2011: 400
+Ingush	Nakh	den	50	since	temporal		dative	dative			0	0	0			Nichols 2011: 401
+Ingush	Nakh	lala	51	beside	spatial		dative	dative		1	0	0	0			Nichols 2011: 401
+Ingush	Nakh	ulu:	52	beside	spatial		dative	dative		1	0	0	0			Nichols 2011: 401, Bekova et al. 2009
+Ingush	Nakh	t'y	53	on(to)	spatial	noun	genitive	dative	1	0	0	0	0			Nichols 2011: 398-399, Bekova et al. 2009
+Ingush	Nakh	t'y	53	on(to)	spatial	noun	oblique stem	dative	1	0	0	0	0			Nichols 2011: 398-399, Bekova et al. 2009
+Ingush	Nakh	t'ehw(a)	54	after	temporal		genitive	dative		1	0	0	0			Nichols 2011: 402
+Ingush	Nakh	t'ehw(a)	54	behind	spatial		genitive	dative		1	0	0	0			Nichols 2011: 402
+Ingush	Nakh	t'ehwagh(a)	55	later (than)	temporal		comparative	comparative		1	0	0	0			Nichols 2011: 406, Bekova et al. 2009
+Ingush	Nakh	dehw(a)	56	on(to) the other side	spatial		comparative	comparative		1	0	0	0			Nichols 2011: 402
+Ingush	Nakh	duhwa	57	for	abstract	noun	genitive	genitive		0	0	0	0			Nichols 2011: 402, Bekova et al. 2009
+Ingush	Nakh	duhwal	58	in front of	spatial		dative	dative		1	0	0	0			Nichols 2011: 403, Bekova et al. 2009
+Ingush	Nakh	mette(l)	59	instead	abstract	noun	genitive	genitive			0	0	0			Nichols 2011: 403
+Ingush	Nakh	jixie	60	near	spatial	noun	dative	dative	1	1	0	0	0			Nichols 2011: 404, Bekova et al. 2009
+Ingush	Nakh	jiq'ie	61	in the middle	spatial	noun	dative	dative	1	1	0	0	0			Nichols 2011: 404, Desheriev 1963: 488
+Ingush	Nakh	jistie	62	next to	spatial	noun	dative	dative		1	0	0	0			Bekova et al. 2009
+Ingush	Nakh	chu(hwanahw)	63	inside	spatial	noun	dative	dative	1	1	0	0	0			Nichols 2011: 398-399, 405
+Ingush	Nakh	t'ehwanahw	64	outside	spatial		dative	dative		1	0	0	0			Nichols 2011: 405, Bekova et al. 2009
+Ingush	Nakh	t'ehwanahw	64	on top of	spatial		dative	dative		1	0	0	0			Nichols 2011: 405, Bekova et al. 2009
+Ingush	Nakh	hwaamara	65	for	abstract		genitive	genitive		0	0	0	0			Nichols 2011: 405
+Ingush	Nakh	bahwancie	66	because of	abstract	noun	nominative	nominative		0	1	0	0			Nichols 2011: 405
+Ingush	Nakh	hwalha	67	ahead	spatial		dative	dative		1	0	0	0			Nichols 2011: 406, Desheriev 1963: 488
+Ingush	Nakh	hwalha	67	before	temporal		dative	dative		1	0	0	0			Nichols 2011: 406, Desheriev 1963: 488
+Ingush	Nakh	hwalha	67	ahead	spatial		nominative	nominative		1	0	0	0			Nichols 2011: 406, Desheriev 1963: 488
+Ingush	Nakh	hwalha	67	before	temporal		nominative	nominative		1	0	0	0			Nichols 2011: 406, Desheriev 1963: 488
+Ingush	Nakh	leacaa	68	about	abstract	verb	lative	lative		0	0	0	0			Nichols 2011: 406, Bekova et al. 2009
+Ingush	Nakh	qaacchalca	69	up to	spatial	verb	genitive	genitive		0	0	0	0			Nichols 2011: 407, Bekova et al. 2009
+Godoberi	Avar-Andic	isibala	70	near	spatial	noun	cont	cont		1	0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	musula	71	instead	abstract	noun	in	in	1		0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	musula	71	at place	spatial	noun	in	in	1		0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	musula	71	instead	abstract	noun	inter	inter	1		0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	musula	71	at place	spatial	noun	inter	inter	1		0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	hinu	72	inside	spatial		in	in	1	1	0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	hinu	72	inside	spatial		inter	inter	1	1	0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	hinu	72	inside	spatial		cont	cont	1	1	0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	hila	73	above	spatial		cont	cont	1	1	0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	hiƛ'i	74	under	spatial		cont	cont	1	1	0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	sanu	75	together with	abstract		dative	dative		1	0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	raq'udara	76	behind	spatial	noun	cont	cont	1	1	0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	s:e=b=a	77	ahead	spatial		cont	cont	1	1	0	1	1	infix		Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	b=eχut'u	78	following	spatial		cont	cont		1	0	1	1	prefix		Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	b=aqut'u	79	around	spatial		cont	cont		1	0	1	1	prefix		Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	b=aƛ'u	80	between	spatial	noun	cont	cont	1	1	0	1	1	prefix		Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	sabało	81	because of	abstract		nominative	nominative		0	1	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	sabało	81	because of	abstract		dative	dative		0	1	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	ħisabaqːi	82	as	abstract		nominative	nominative			0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	łikuru	83	than	abstract		does not govern case	does not govern case			0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	dandi	84	toward	spatial		superessive	superessive		1	0	0	0			Kibrik 1996, Saidova 2006
+Godoberi	Avar-Andic	ħaq'iƛi	85	about	abstract		genitive	genitive		0	1	0	0			Kibrik 1996, Saidova 2006
+Avar	Avar-Andic	sʷeruq	86	around	spatial		superessive	superessive	1	1	0	0	0			Alekseev et al. 2012: 242, Aytemirova 2007:10
+Avar	Avar-Andic	xolboq	87	near	spatial	noun	superessive	superessive	1	1	0	0	0			Aytemirova 2007: 10
+Avar	Avar-Andic	xolboq	87	near	spatial	noun	genitive	genitive	1	1	0	0	0			Aytemirova 2007: 10
+Avar	Avar-Andic	raʕalda	88	beside	spatial	noun	absolutive	absolutive	1	1	0	0	0			Aytemirova 2007: 10
+Avar	Avar-Andic	raʕalda	88	beside	spatial	noun	genitive	genitive	1	1	0	0	0			Aytemirova 2007: 10
+Avar	Avar-Andic	bak'alda	89	instead	abstract	noun	genitive	genitive		0	0	0	0			Alekseev et al. 2012: 243
+Avar	Avar-Andic	ce=b=e	90	in front of	spatial		superessive	superessive	1	1	0	1	1	infix		Alekseev et al. 2012: 243
+Avar	Avar-Andic	ce=b=e	91	before	temporal		inter	inter	0	1	0	1	1	infix		Alekseev et al. 2012: 243
+Avar	Avar-Andic	ʁorƛ'o=b	92	in the middle	spatial		superessive	superessive	1	1	0	1	0	suffix		Aytemirova 2007: 10
+Avar	Avar-Andic	cadaq	93	together with	abstract		superessive	superessive	1	1	0	0	0			Aytemirova 2007: 10
+Avar	Avar-Andic	dande	94	in front of	spatial		superessive	superessive	0	1	0	0	0			
+Avar	Avar-Andic	dande	94	opposite	spatial		superessive	superessive	0	1	0	0	0			
+Avar	Avar-Andic	dande	95	in front of	spatial		dative	dative	0	1	0	0	0			
+Avar	Avar-Andic	baƛ'uł	96	among	spatial	noun	absolutive	absolutive	1	1	0	0	0			
+Avar	Avar-Andic	baƛ'uł	96	among	spatial	noun	genitive	genitive	1	1	0	0	0			
+Avar	Avar-Andic	ħaq'ałuł	97	about	abstract		genitive	genitive	0	0	1	0	0			
+Avar	Avar-Andic	ʕolo	98	for	abstract		dative	dative	0	0	0	0	0			
+Avar	Avar-Andic	t'ad	99	on	spatial		superessive	superessive	1	1	0	0	0			
+Avar	Avar-Andic	ʁorƛ'	100	under	spatial		superessive	superessive	1	1	0	0	0			
+Avar	Avar-Andic	ask'o=b	101	near	spatial		superessive	superessive	1	1	0	1	0	suffix		
+Avar	Avar-Andic	žani=b	102	in	spatial		superessive	superessive	1	1	0	1	0	suffix		
+Avar	Avar-Andic	žani=b	102	in	spatial		dative	dative	1	1	0	1	0	suffix		
+Avar	Avar-Andic	žani=b	102	in	spatial		inter	inter	1	1	0	1	0	suffix		
+Avar	Avar-Andic	žani=b	103	during	temporal		superessive	superessive	0		0	1	0	suffix		
+Avar	Avar-Andic	naqa	104	behind	spatial		superessive	superessive	1	1	0	0	0			
+Avar	Avar-Andic	naqe	105	since	temporal		superelative	superelative	0		0	0	0			
+Avar	Avar-Andic	χadu=b	106	following	spatial		superessive	superessive	1	1	0	1	0	suffix		
+Avar	Avar-Andic	χadu=b	107	after	temporal		ablative	ablative	0	1	0	1	0	suffix		
+Avar	Avar-Andic	raƛ'anda	108	near the basement	spatial	noun	genitive	genitive	1	1	0	0	0			
+Avar	Avar-Andic	aχːada	109	below	spatial		absolutive	absolutive	1	1	0	0	0			
+Avar	Avar-Andic	aχːada	109	below	spatial		genitive	genitive	1	1	0	0	0			
+Avar	Avar-Andic	urhi=b	110	inside	spatial	noun	superessive	superessive	1	1	0	1	0	suffix	is used only with animate nouns	
+Avar	Avar-Andic	urhi=b	110	inside	spatial	noun	genitive	genitive	1	1	0	1	0	suffix	is used only with animate nouns	
+Avar	Avar-Andic	ʕagarda	111	close to	spatial		superessive	superessive		1	0	0	0			
+Avar	Avar-Andic	ʕebede	112	along	spatial		elative	elative	0	1	0	0	0			
+Avar	Avar-Andic	ʕodo=b	113	below	spatial		superessive	superessive	1	1	0	1	0	suffix		
+Avar	Avar-Andic	t'ohi=b	114	on top of	spatial	noun	genitive	genitive	1	1	0	1	0	suffix		
+Avar	Avar-Andic	sababłun	115	because of	abstract	noun	absolutive	absolutive	0	0	1	0	0			
+Avar	Avar-Andic	χurχun	116	in connection with	abstract	verb	superessive	superessive	0	0	0	0	0			
+Avar	Avar-Andic	req'on	117	according to	abstract		superessive	superessive	0	0	0	0	0			
+Avar	Avar-Andic	raqał	118	from the side	abstract	noun	genitive	genitive	0	0	0	0	0			
+Avar	Avar-Andic	č'ʷan	119	across	spatial	verb	absolutive	absolutive	1		0	0	0			
+Avar	Avar-Andic	q'ot'un	120	through	spatial	verb	absolutive	absolutive	1	1	0	0	0			
+Avar	Avar-Andic	čoxoni=b	121	inside	spatial	noun	superessive	superessive	1	1	0	1	0	suffix		
+Avar	Avar-Andic	čoxoni=b	121	inside	spatial	noun	genitive	genitive	1	1	0	1	0	suffix		
+Avar	Avar-Andic	ʕunt'un	122	till	spatial	verb	LOC-lative	LOC-lative		0	0	0	0			
+Avar	Avar-Andic	hunu=b	123	near	spatial		locative	locative		1	0	1	0	suffix	dialectal	
+Zakatala Avar	Avar-Andic	roʁno(b)	124	in	spatial					1	0	1	0	suffix		
+Zakatala Avar	Avar-Andic	k'inaq	125	near	spatial				1	1	0	0	0			
+Zakatala Avar	Avar-Andic	ʁodaq	126	near	spatial					1	0	0	0			
+Zakatala Avar	Avar-Andic	raʕaː	127	beside	spatial	noun			1	1	0	0	0			
+Zakatala Avar	Avar-Andic	ʕodo(b)	128	under	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Zakatala Avar	Avar-Andic	muʁaq	129	behind	spatial	noun					0	0	0			
+Zakatala Avar	Avar-Andic	žanib	130	in	spatial				1	1	0	1	0	suffix		
+Zakatala Avar	Avar-Andic	k'örob	131	in the middle	spatial		superessive	superessive	1	1	0	1	0	suffix		
+Zakatala Avar	Avar-Andic	k'äd	132	above	spatial		superessive	superessive	1	1	0	0	0			
+Zakatala Avar	Avar-Andic	naqasa	133	behind	spatial		superessive	superessive		0	0	0	0			
+Zakatala Avar	Avar-Andic	sːeruq	134	around	spatial	noun	superessive	superessive		1	0	0	0			
+Zakatala Avar	Avar-Andic	cːebecːa	135	in front of	spatial		superessive	superessive		0	0	0	0			
+Zakatala Avar	Avar-Andic	ʕolo	136	for	abstract		dative	dative		0	0	0	0			
+Zakatala Avar	Avar-Andic	c'adaq	137	together with	abstract		superessive	superessive		1	0	0	0			
+Zakatala Avar	Avar-Andic	xubluq	138	near	spatial	noun	superessive	superessive		1	0	0	0			
+Zakatala Avar	Avar-Andic	sabaxu	139	because of	abstract		absolutive	absolutive			1	0	0			
+Zakatala Avar	Avar-Andic	bok'no	140	instead	abstract	noun	genitive	genitive		0	0	0	0			
+Zakatala Avar	Avar-Andic	göra	141	instead	abstract						1	0	0			
+Zakatala Avar	Avar-Andic	ħaq'ɨnda	142	about	abstract						1	0	0			
+Zakatala Avar	Avar-Andic	gera	143	according to	abstract							0	0			
+Zakatala Avar	Avar-Andic	ruq'unu	144	according to	abstract	verb					0	0	0			
+Zakatala Avar	Avar-Andic	balatunu	145	given that	abstract	verb					0	0	0			
+Akhvakh	Avar-Andic	ħaq'ełige	146	about	abstract	noun	genitive	genitive		0	1	0	0			
+Akhvakh	Avar-Andic	geƛi	147	into	spatial		superessive	superessive	1	1	0	0	0			
+Akhvakh	Avar-Andic	ƛ'ado	148	on	spatial		superessive	superessive	1	1	0	0	0			
+Akhvakh	Avar-Andic	geƛ'i	149	below	spatial		superessive	superessive	1	1	0	0	0			
+Akhvakh	Avar-Andic	sːigi	150	in front of	spatial		superessive	superessive	1	1	0	0	0			
+Akhvakh	Avar-Andic	dandi	151	opposite	spatial		super-allative	super-allative	0	1	0	0	0			
+Akhvakh	Avar-Andic	ʁana	152	for	abstract		dative	dative		0	0	0	0			
+Akhvakh	Avar-Andic	k'ena	153	with	abstract		absolutive	absolutive		0	0	0	0			
+Akhvakh	Avar-Andic	gołala	154	except	abstract	verb	absolutive	absolutive		1	0	0	0			
+Akhvakh	Avar-Andic	saːłilajeːhe	155	because of	abstract	verb	absolutive	absolutive		0	0	0	0			
+Akhvakh	Avar-Andic	aƛ'ege	156	between	spatial	noun	superessive	superessive	1	1	0	0	0			
+Akhvakh	Avar-Andic	baƛ'iqe	157	near	spatial	noun	superessive	superessive	1		0	0	0			
+Akhvakh	Avar-Andic	anƛ'oˁ	158	together with	abstract		superessive	superessive		1	0	0	0			
+Akhvakh	Avar-Andic	anƛ'oˁ	158	near	spatial		superessive	superessive		1	0	0	0			
+Akhvakh	Avar-Andic	qedo	159	behind	spatial		superessive	superessive		1	0	0	0			
+Akhvakh	Avar-Andic	sːore	160	around	spatial		superessive	superessive		0	0	0	0			
+Akhvakh	Avar-Andic	k'adala	161	plus	abstract		superessive	superessive		1	0	0	0			
+Akhvakh	Avar-Andic	rosːoqa	162	behind	spatial		superessive	superessive	1	1	0	0	0			
+Akhvakh	Avar-Andic	sːigune	163	instead	abstract		superelative	superelative		1	0	0	0			
+Akhvakh	Avar-Andic	ešeqe	164	near	spatial		superessive	superessive	1	1	0	0	0			
+Tindi	Avar-Andic	ħaq'iłj	165	about	abstract	noun	genitive	genitive		0	1	0	0			
+Tindi	Avar-Andic	sabało	166	because of	abstract	noun	absolutive	absolutive		0	1	0	0			
+Tindi	Avar-Andic	baːrdi	167	for	abstract		super1	super1		0	0	0	0			
+Tindi	Avar-Andic	raq'oːta	168	according to	abstract	verb	superessive	superessive		0	0	0	0			
+Tindi	Avar-Andic	buχːiłoː	169	except	abstract	verb	absolutive	absolutive		0	0	0	0			
+Tindi	Avar-Andic	betoːta	170	except	abstract	verb	absolutive	absolutive		0	0	0	0			
+Tindi	Avar-Andic	beƛ'ari	171	near	spatial	noun	superessive	superessive	1	1	0	0	0			
+Tindi	Avar-Andic	beƛ'ari	171	near	spatial	noun	locative3	locative3	1	1	0	0	0			
+Tindi	Avar-Andic	baƛ'i	172	among	spatial	noun	superessive	superessive	1	1	0	0	0			
+Tindi	Avar-Andic	baƛ'i	172	among	spatial	noun	locative3	locative3	1	1	0	0	0			
+Tindi	Avar-Andic	baƛ'i	172	among	spatial	noun	apudessive	apudessive	1	1	0	0	0			
+Tindi	Avar-Andic	hiƛ'i	173	under	spatial		superessive	superessive	1	1	0	0	0			
+Tindi	Avar-Andic	hini	174	in	spatial		superessive	superessive	1	1	0	0	0			
+Tindi	Avar-Andic	χeri	175	following	spatial		superessive	superessive	1	1	0	0	0			
+Tindi	Avar-Andic	χero	176	from behind	spatial		superessive	superessive	1	0	0	0	0			
+Tindi	Avar-Andic	χero	177	after	temporal		super1	super1		1	0	0	0			
+Tindi	Avar-Andic	sːero	178	in front of	spatial		superessive	superessive	1	1	0	0	0			
+Tindi	Avar-Andic	sːero	179	instead	abstract		superessive	superessive	1	0	0	0	0			
+Tindi	Avar-Andic	χindal	180	around	spatial		superessive	superessive	1	1	0	0	0			
+Tindi	Avar-Andic	aχa	181	above	spatial		super1	super1	1	1	0	0	0			
+Tindi	Avar-Andic	dandiχindu	182	opposite	spatial		ad-allative	ad-allative	0	0	0	0	0			
+Tindi	Avar-Andic	aχala	183	plus	abstract		super1	super1		1	0	0	0			
+Tindi	Avar-Andic	baƛ'aqa	184	between	spatial		absolutive	absolutive		1	0	0	0			
+Tindi	Avar-Andic	b=alo	185	until	spatial		apudessive	apudessive		0	0	1	1	prefix		
+Tindi	Avar-Andic	raƛ'aːłːila	186	in the middle	spatial		inessive	inessive	1	1	0	0	0			
+Tindi	Avar-Andic	esabaqa	187	beside	spatial		superessive	superessive		1	0	0	0			
+Gagatli Andi	Avar-Andic	hila	188	on	spatial		superessive	superessive			0	0	0			
+Gagatli Andi	Avar-Andic	sːedu	189	in front of	spatial		contessive	contessive			0	0	0			
+Gagatli Andi	Avar-Andic	hiƛ'u	190	under	spatial		subessive	subessive			0	0	0			
+Gagatli Andi	Avar-Andic	iƛi	191	in	spatial		inessive	inessive			0	0	0			
+Rikwani Andi	Avar-Andic	w=oχudu	192	behind	spatial		contessive	contessive			0	1	1	prefix		
+Rikwani Andi	Avar-Andic	sːedu	193	in front of	spatial		contessive	contessive		1	0	0	0			
+Rikwani Andi	Avar-Andic	q'ʁora	194	straight on	spatial						0	0	0			
+Rikwani Andi	Avar-Andic	hila	195	above	spatial					1	0	0	0			
+Rikwani Andi	Avar-Andic	hiƛ'u	196	under	spatial		subessuve	subessive		1	0	0	0			
+Rikwani Andi	Avar-Andic	ƛherχa	197	near	spatial		contessive	contessive		1	0	0	0			
+Rikwani Andi	Avar-Andic	beχuda	198	behind	spatial					1	0	0	0			
+Rikwani Andi	Avar-Andic	hinu	199	inside	spatial					1	0	0	0			
+Rikwani Andi	Avar-Andic	boƛ'u	200	among	spatial	noun				1	0	0	0			
+Rikwani Andi	Avar-Andic	badi	201	opposite	spatial					1	0	0	0			
+Andi	Avar-Andic	hila	202	on	spatial		locative	locative	1		0	0	0			
+Andi	Avar-Andic	hinu	203	in	spatial		locative	locative	1		0	0	0			
+Andi	Avar-Andic	hiq'ːuː	204	under	spatial		genitive	genitive	1		0	0	0			
+Andi	Avar-Andic	sːedu	205	in front of	spatial		ablative-comparative	ablative-comparative	1		0	0	0			
+Andi	Avar-Andic	ngeru	206	near	spatial		ablative-comparative	ablative-comparative	1		0	0	0			
+Andi	Avar-Andic	beq'idu	207	around	spatial		ablative-comparative	ablative-comparative			0	0	0			
+Andi	Avar-Andic	beχudu	208	behind	spatial		ablative-comparative	ablative-comparative	1		0	0	0			
+Andi	Avar-Andic	ingu	209	together with	abstract		genitive	genitive			0	0	0			
+Andi	Avar-Andic	soru	210	together with	abstract		dative	dative			0	0	0			
+Andi	Avar-Andic	sonni	211	together with	abstract						0	0	0			
+Andi	Avar-Andic	sabab	212	for	abstract						1	0	0			
+Andi	Avar-Andic	boq'ːuː	213	between	spatial						0	0	0			
+Zilo Andi	Avar-Andic	hiʔa	214	over	spatial				1	1	0	0	0			
+Zilo Andi	Avar-Andic	hinu	215	inside	spatial				1	1	0	0	0			
+Zilo Andi	Avar-Andic	łeru	216	close to	spatial						0	0	0			
+Zilo Andi	Avar-Andic	sːedu	217	in front of	spatial				1	1	0	0	0			
+Zilo Andi	Avar-Andic	hiƛ'u	218	under	spatial				1	1	0	0	0			
+Zilo Andi	Avar-Andic	ekːu	219	on the edge	spatial						0	0	0			
+Zilo Andi	Avar-Andic	sababłij	220	because of	abstract	noun	absolutive	absolutive			1	0	0			
+Zilo Andi	Avar-Andic	misalʔa	221	instead	abstract	noun	genitive	genitive			0	0	0			
+Zilo Andi	Avar-Andic	č'alo	222	for	abstract		instrumental	instrumental			0	0	0			
+Zilo Andi	Avar-Andic	CL=exudu	223	to (goal of motion)	spatial		contessive	contessive	1	1	0	1	1	prefix		
+Zilo Andi	Avar-Andic	CL-oƛ’u	224	among	spatial					1	0	1	1	prefix		
+Zilo Andi	Avar-Andic	hadu	225	in the face of	spatial						0	0	0			
+Bagwalal	Avar-Andic	č'ihi	226	above	spatial		affective	affective	1	1	0	0	0			
+Bagwalal	Avar-Andic	hini	227	inside	spatial		interessive	interessive	1	1	0	0	0			
+Bagwalal	Avar-Andic	hini	227	inside	spatial		affective	affective	1	1	0	0	0			
+Bagwalal	Avar-Andic	hiL'i	228	under	spatial		affective	affective	1	1	0	0	0			
+Bagwalal	Avar-Andic	hiL'i	228	under	spatial		subessive	subessive	1	1	0	0	0			
+Bagwalal	Avar-Andic	haluba	229	above	spatial		superelative	superelative	1	1	0	0	0			
+Bagwalal	Avar-Andic	haluba	230	after	temporal		superelative	superelative	1	0	0	0	0			
+Bagwalal	Avar-Andic	b=aL'ani	231	in the middle	spatial		nominative	nominative	1	0	0	1	1	prefix		
+Bagwalal	Avar-Andic	b=aL'ani	231	in the middle	spatial		superessive	superessive	1	0	0	1	1	prefix		
+Bagwalal	Avar-Andic	XindiX	232	around	spatial		nominative	nominative	0	1	0	0	0			
+Bagwalal	Avar-Andic	XindiX	232	around	spatial		affective	affective	0	1	0	0	0			
+Bagwalal	Avar-Andic	dand	233	opposite	spatial		affective	affective	0	1	0	0	0			
+Bagwalal	Avar-Andic	dand	233	in comparison to	abstract		affective	affective	0	1	0	0	0			
+Bagwalal	Avar-Andic	sse	234	ahead	spatial		affective	affective	1	1	0	0	0			
+Bagwalal	Avar-Andic	sse	234	ahead	spatial		superelative	superelative	1	1	0	0	0			
+Bagwalal	Avar-Andic	sse	234	ahead	spatial		contessive	contessive	1	1	0	0	0			
+Bagwalal	Avar-Andic	sse	234	before	temporal		affective	affective	1	1	0	0	0			
+Bagwalal	Avar-Andic	sse	234	before	temporal		superelative	superelative	1	1	0	0	0			
+Bagwalal	Avar-Andic	sse	234	before	temporal		contessive	contessive	1	1	0	0	0			
+Bagwalal	Avar-Andic	heː	235	behind	spatial		affective	affective	1	1	0	0	0			
+Bagwalal	Avar-Andic	heː	235	behind	spatial		superelative	superelative	1	1	0	0	0			
+Bagwalal	Avar-Andic	heː	235	behind	spatial		contessive	contessive	1	1	0	0	0			
+Bagwalal	Avar-Andic	esebaX	236	near	spatial	noun	affective	affective	1	1	0	0	0			
+Bagwalal	Avar-Andic	esebaX	236	near	spatial	noun	nominative	nominative	1	1	0	0	0			
+Bagwalal	Avar-Andic	ʕaraX	237	along	spatial		superlative	superlative		1	0	0	0			
+Bagwalal	Avar-Andic	sani	238	together with	abstract		comitative	comitative	0	1	0	0	0			
+Bagwalal	Avar-Andic	saballi	239	because of	abstract		nominative	nominative	0	0	1	0	0			
+Bagwalal	Avar-Andic	Haqłːiłː	240	about	abstract		genitive	genitive	0	0	1	0	0			
+Bagwalal	Avar-Andic	-Xindi	241	from	spatial		superelative	superelative	0	0	0	0	0			
+Bagwalal	Avar-Andic	Rabi	242	to	spatial		nominative	nominative	0	0	0	0	0			
+Bagwalal	Avar-Andic	b=aL'ar	243	between	spatial		nominative	nominative	1	1	0	1	1	prefix		
+Bagwalal	Avar-Andic	b=aL'ar	243	between	spatial		interessive	interessive	1	1	0	1	1	prefix		
+Bagwalal	Avar-Andic	b=aL'aX	244	between	spatial		affective	affective	1	1	0	1	1	prefix		
+Bagwalal	Avar-Andic	b=aL'aX	244	between	spatial		interessive	interessive	1	1	0	1	1	prefix		
+Bagwalal	Avar-Andic	beƛ'ara	245	beside	spatial		allative	allative		0	0	0	0			
+Bagwalal	Avar-Andic	b=eːl	246	until	spatial		nominative	nominative		0	0	1	1	prefix		
+Bagwalal	Avar-Andic	b=eːl	246	until	temporal		nominative	nominative		0	0	1	1	prefix		
+Bagwalal	Avar-Andic	b=uχːul	247	except	abstract		nominative	nominative		0	0	1	1	prefix		
+Bagwalal	Avar-Andic	wač'ubla	248	plus	abstract		nominative	nominative		0	0	0	0			
+Bagwalal	Avar-Andic	łːaraːłːi	249	for	abstract		dative	dative		0	0	0	0			
+Bagwalal	Avar-Andic	sːeraːχ	250	instead	abstract		affective	affective		0	0	0	0			
+Bagwalal	Avar-Andic	tarabla	251	except	abstract		nominative	nominative		0	0	0	0			
+Bagwalal	Avar-Andic	č'i(la)	252	besides	abstract		nominative	nominative		0	0	0	0			
+Chamalal	Avar-Andic	sːin	253	in front of	spatial		superessive	superessive	1	1	0	0	0			
+Chamalal	Avar-Andic	esːbaqe	254	near	spatial	noun	superessive	superessive	1	1	0	0	0			
+Chamalal	Avar-Andic	esːbaqe	254	near	spatial	noun	contessive	contessive	1	1	0	0	0			
+Chamalal	Avar-Andic	hiƛ'a	255	under	spatial		superessive	superessive	1	1	0	0	0			
+Chamalal	Avar-Andic	aχ	256	above	spatial		superessive	superessive		1	0	0	0			
+Chamalal	Avar-Andic	beχqe	257	behind	spatial		superessive	superessive	1	1	0	0	0			
+Chamalal	Avar-Andic	beχqe	257	behind	spatial		contessive	contessive	1	1	0	0	0			
+Chamalal	Avar-Andic	b=eχat'ʷ	258	following	spatial		superessive	superessive	1	1	0	1	1	prefix		
+Chamalal	Avar-Andic	beq	259	around	spatial		superessive	superessive		1	0	0	0			
+Chamalal	Avar-Andic	c'ːalad	260	for	abstract	noun	superessive	superessive		0	0	0	0			
+Chamalal	Avar-Andic	sabałi	261	because of	abstract		nominative	nominative		0	1	0	0			
+Chamalal	Avar-Andic	ħaq'ƛa	262	about	abstract		genitive	genitive		0	1	0	0			
+Chamalal	Avar-Andic	beta	263	except	abstract	verb	nominative	nominative		0	0	0	0			
+Chamalal	Avar-Andic	b=eχːʷno	264	until	spatial	verb	nominative	nominative		0	0	1	1	prefix		
+Chamalal	Avar-Andic	b=eχːʷno	264	except	abstract	verb	nominative	nominative		0	0	1	1	prefix		
+Chamalal	Avar-Andic	b=ilo	265	reaching	spatial	verb	apudessive	apudessive		0	0	1	1	prefix		
+Chamalal	Avar-Andic	b=ilo	265	approximately	abstract	verb	apudessive	apudessive		0	0	1	1	prefix		
+Chamalal	Avar-Andic	b=aƛ'an	266	in the middle	spatial		superessive	superessive	1	1	0	1	1	prefix		
+Chamalal	Avar-Andic	b=aƛ'an	266	in the middle	spatial		apudessive	apudessive	1	1	0	1	1	prefix		
+Chamalal	Avar-Andic	danχːin	267	opposite	spatial		apudessive	apudessive		0	0	0	0			
+Chamalal	Avar-Andic	jeχːa	268	since	temporal		subelative	subelative		0	0	0	0			
+Chamalal	Avar-Andic	aχila	269	plus	abstract		apudessive	apudessive		0	0	0	0			
+Chamalal	Avar-Andic	aχila	269	plus	abstract		dative	dative		0	0	0	0			
+Chamalal	Avar-Andic	iχda	270	except	abstract		nominative	nominative		0	0	0	0			
+Chamalal	Avar-Andic	sːino	271	in front of	spatial		superessive	superessive		0	0	0	0			
+Chamalal	Avar-Andic	sːino	271	instead	abstract		superessive	superessive		0	0	0	0			
+Karata	Avar-Andic	kel'i	272	in mass	spatial		contessive	contessive	1	1	0	0	0			
+Karata	Avar-Andic	kel'i	272	in mass	spatial		locative	locative	1	1	0	0	0			
+Karata	Avar-Andic	kel'i	272	in mass	spatial		interessive	interessive	1	1	0	0	0			
+Karata	Avar-Andic	kettːi	273	under	spatial		contessive	contessive	1	1	0	0	0			
+Karata	Avar-Andic	kettːi	273	under	spatial		locative	locative	1	1	0	0	0			
+Karata	Avar-Andic	kettːi	273	under	spatial		subessive	subessive	1	1	0	0	0			
+Karata	Avar-Andic	kaʔa	274	above	spatial		contessive	contessive	1	1	0	0	0			
+Karata	Avar-Andic	kaʔa	274	above	spatial		locative	locative	1	1	0	0	0			
+Karata	Avar-Andic	kaʔa	274	above	spatial		inessive	inessive	1	1	0	0	0			
+Karata	Avar-Andic	hini	275	inside	spatial		contessive	contessive	1	1	0	0	0			
+Karata	Avar-Andic	hini	275	inside	spatial		locative	locative	1	1	0	0	0			
+Karata	Avar-Andic	hini	275	inside	spatial		inessive	inessive	1	1	0	0	0			
+Karata	Avar-Andic	hini	275	inside	spatial		interessive	interessive	1	1	0	0	0			
+Karata	Avar-Andic	baƛ'i	276	in the middle	spatial		contessive	contessive		1	0	0	0			
+Karata	Avar-Andic	baƛ'i	276	in the middle	spatial		locative	locative		1	0	0	0			
+Karata	Avar-Andic	baƛ'i	276	in the middle	spatial		interessive	interessive		1	0	0	0			
+Karata	Avar-Andic	sːigi	277	in front of	spatial		contessive	contessive	1	1	0	0	0			
+Karata	Avar-Andic	sːigi	277	in front of	spatial		locative	locative	1	1	0	0	0			
+Karata	Avar-Andic	χigi	278	behind	spatial		contessive	contessive	1	1	0	0	0			
+Karata	Avar-Andic	χigi	278	behind	spatial		locative	locative	1	1	0	0	0			
+Karata	Avar-Andic	battːari	279	in corner	spatial	noun				1	0	0	0			
+Karata	Avar-Andic	battːil'i	280	between	spatial					1	0	0	0			
+Karata	Avar-Andic	saru	281	close to	spatial		comitative	comitative		1	0	0	0			
+Karata	Avar-Andic	saru	281	together with	abstract		comitative	comitative		1	0	0	0			
+Karata	Avar-Andic	sabałe	282	because of	abstract		nominative	nominative		0	1	0	0			
+Karata	Avar-Andic	biłe	283	for	abstract		locative	locative		0	0	0	0			
+Karata	Avar-Andic	q'usab	284	except	abstract		nominative	nominative		0	0	0	0			
+Karata	Avar-Andic	χigi-sːigi	285	around	spatial		contessive	contessive		1	0	0	0			
+Karata	Avar-Andic	χigi-sːigi	285	around	spatial		locative	locative		1	0	0	0			
+Karata	Avar-Andic	ariq	286	along	spatial					1	0	0	0			
+Karata	Avar-Andic	baq'ebχʷa	287	according to	abstract		locative	locative		1	0	0	0			
+Karata	Avar-Andic	baʔilasː	288	until	spatial		superlative	superlative		1	0	0	0			
+Karata	Avar-Andic	baʔilasː	288	until	spatial		nominative	nominative		1	0	0	0			
+Karata	Avar-Andic	biχːulasː	289	except	abstract		nominative	nominative			0	0	0			
+Karata	Avar-Andic	hač'ʷarel	290	without	abstract			nominative			0	0	0		is used only with pronouns	
+Karata	Avar-Andic	dande	291	opposite	spatial		locative	locative		1	0	0	0			
+Karata	Avar-Andic	raʔaril	292	because of	abstract		locative	locative		0	0	0	0			
+Karata	Avar-Andic	sːoreq	293	around	spatial		nominative	nominative		1	0	0	0			
+Karata	Avar-Andic	χirχir	294	following	spatial		locative	locative		1	0	0	0			
+Karata	Avar-Andic	ħaq'ałːiƛ	295	about	abstract		genitive	genitive		0	1	0	0			
+Karata	Avar-Andic	esebʷa	296	near	spatial	noun	contessive	contessive		1	0	0	0			
+Botlikh	Avar-Andic	sandu	297	together with	abstract		contessive	contessive		1	0	0	0			
+Botlikh	Avar-Andic	hea	298	above	spatial		inessive	inessive	1	1	0	0	0			
+Botlikh	Avar-Andic	hea	298	above	spatial		contessive	contessive	1	1	0	0	0			
+Botlikh	Avar-Andic	hiƛ'i	299	under	spatial		contessive	contessive	1	1	0	0	0			
+Botlikh	Avar-Andic	sːea	300	ahead	spatial		contessive	contessive	1	1	0	0	0			
+Botlikh	Avar-Andic	b=aƛ'u	301	among	spatial	noun	contessive	contessive		1	0	1	1	prefix		
+Botlikh	Avar-Andic	b=eχut'u	302	following	spatial		contessive	contessive		1	0	1	1	prefix		
+Botlikh	Avar-Andic	sːeaku	303	instead	abstract		contessive	contessive		0	0	0	0			
+Botlikh	Avar-Andic	b=eƛ'aru	304	near	spatial	noun	contessive	contessive		1	0	1	1	prefix		
+Botlikh	Avar-Andic	besqe	305	behind	spatial		contessive	contessive		1	0	0	0			
+Botlikh	Avar-Andic	baq'o	306	according to	abstract		dative	dative		1	0	0	0			
+Botlikh	Avar-Andic	b=equt'u	307	around	spatial		contessive	contessive		1	0	1	1	prefix		
+Botlikh	Avar-Andic	hinu	308	inside	spatial		interessive	interessive		1	0	0	0			
+Botlikh	Avar-Andic	danda	309	opposite	spatial		contessive	contessive		1	0	0	0			
+Botlikh	Avar-Andic	saʔabu	310	because of	abstract		nominative	nominative		0	0	0	0			
+Botlikh	Avar-Andic	ħaq'alda	311	about	abstract		genitive	genitive		0	1	0	0			
+Kubachi	Dargic	b=ukːi=b	312	inside	spatial	noun	genitive	genitive	1	1	0	1	1	prefix and suffix		
+Kubachi	Dargic	b=agni=b	313	in the middle	spatial	noun	genitive	genitive	1	1	0	1	1	prefix and suffix		
+Kubachi	Dargic	tːaː	314	outside	spatial		genitive	genitive	1		0	0	0			
+Kubachi	Dargic	lumi=b	315	at the edge	spatial	noun	genitive	genitive	1		0	1	0	suffix		
+Kubachi	Dargic	tala	316	in front of	spatial		genitive	genitive		1	0	0	0			
+Kubachi	Dargic	čili=b	317	on	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Kubachi	Dargic	guli=b	318	down	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Kubachi	Dargic	šːuli=b	319	near	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Kubachi	Dargic	šːal	320	from the side	spatial	noun	genitive	genitive		0	0	0	0			
+Kubachi	Dargic	učːi=b	321	between	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Kubachi	Dargic	hila	322	back	spatial		genitive	genitive	1	1	0	0	0			
+Kubachi	Dargic	heʁi=b	323	following	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Kubachi	Dargic	tːaː=b=aː	324	except	abstract		genitive	genitive			0	1	1	infix		
+Akusha	Dargic	ʡerʁi	325	after	spatial		genitive	genitive		1	0	0	0			
+Akusha	Dargic	ʡerʁi	325	after	spatial		dative	dative		1	0	0	0			
+Akusha	Dargic	dura=b	326	outside	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Akusha	Dargic	b=uħna=b	327	inside	spatial		genitive	genitive	1	1	0	1	1	prefix and suffix		
+Akusha	Dargic	urga=b	328	in the middle	spatial		absolutive	absolutive	1	1	0	1	0	suffix		
+Akusha	Dargic	urga=b	328	in the middle	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Akusha	Dargic	hala=b	329	in front of	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Akusha	Dargic	hala=b	329	near	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Akusha	Dargic	hala=b	329	in front of	spatial		dative	dative	1	1	0	1	0	suffix		
+Akusha	Dargic	hala=b	329	near	spatial		dative	dative	1	1	0	1	0	suffix		
+Akusha	Dargic	ʡela=b	330	behind	spatial		absolutive	absolutive	1	1	0	1	0	suffix		
+Akusha	Dargic	ʡela=b	330	behind	spatial		dative	dative	1	1	0	1	0	suffix		
+Akusha	Dargic	ʡela=b	330	behind	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Akusha	Dargic	udi=b	331	below	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Akusha	Dargic	čedi=b	332	above	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Akusha	Dargic	alaw	333	around	spatial		dative	dative		1	0	0	0			
+Akusha	Dargic	alaw	333	around	spatial		absolutive	absolutive		1	0	0	0			
+Akusha	Dargic	b=arxli	334	opposite	spatial		comitative	comitative		1	0	1	1	prefix		
+Akusha	Dargic	b=arxli	334	opposite	spatial		absolutive	absolutive		1	0	1	1	prefix		
+Akusha	Dargic	q'adin	335	instead	abstract		dative	dative		0	0	0	0			
+Akusha	Dargic	bahandan	336	for	abstract		absolutive	absolutive		0	1	0	0			
+Akusha	Dargic	barχ	337	together with	abstract		comitative	comitative		1	0	0	0			
+Akusha	Dargic	sababli	338	because of	abstract		absolutive	absolutive		0	1	0	0			
+Akusha	Dargic	šulʡi=b	339	near	spatial	noun	genitive	genitive	1	1	0	1	0	suffix		
+Akusha	Dargic	mäq'la=b	340	near	spatial	noun	genitive	genitive	1	1	0	1	0	suffix		
+Akusha	Dargic	ʁamli	341	beside	spatial		comitative	comitative		1	0	0	0			
+Akusha	Dargic	ɢaršili	342	opposite	spatial		comitative	comitative		1	1	0	0			
+Akusha	Dargic	durabadra	343	except	abstract		genitive	genitive			0	0	0			
+Akusha	Dargic	hanni	344	because of	abstract	verb	absolutive	absolutive			0	0	0			
+Akusha	Dargic	ɢel	345	during	temporal	noun	genitive	genitive			0	0	0			
+Akusha	Dargic	barili	346	according to	abstract	verb	comitative	comitative			0	0	0			
+Akusha	Dargic	ħerħeili	347	despite	abstract	verb	superessive	superessive		1	0	0	0			
+Akusha	Dargic	ħeq'lizi=b	348	about	abstract	noun	genitive	genitive	1	0	1	1	0	suffix		
+Akusha	Dargic	merla=b	349	instead	abstract	noun	genitive	genitive	1	1	0	1	0	suffix		
+Akusha	Dargic	d=ajla=b	350	in the middle	spatial	noun	genitive	genitive	1	1	0	1	1	prefix and suffix		
+Akusha	Dargic	dubla=b	351	beside	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Akusha	Dargic	kad	352	along	spatial		absolutive	absolutive		0	0	0	0			
+Akusha	Dargic	bikajči	353	until	spatial		absolutive	absolutive		0	0	0	0			
+Akusha	Dargic	-šal	354	in respect to	abstract		absolutive	absolutive		0	0	0	0			
+Akusha	Dargic	-sun	355	along	spatial		absolutive	absolutive		0	0	0	0			
+Akusha	Dargic	-b=äħ(li)	356	toward	spatial		absolutive	absolutive		0	0	1	0	suffix		
+Akusha	Dargic	-ʡebli	357	at the side	spatial		absolutive	absolutive		0	0	0	0			
+Akusha	Dargic	-ʡeb(li)	358	into	spatial		absolutive	absolutive		0	0	0	0			
+Mehweb	Dargic	haraq'e=b	359	in front of	spatial		dative	dative	1	1	0	1	0	suffix		
+Mehweb	Dargic	b=uħna=b	360	inside	spatial		dative	dative	1	1	0	1	1	prefix and suffix		
+Mehweb	Dargic	šulʡe=b	361	near	spatial		dative	dative	1	1	0	1	0	suffix		
+Mehweb	Dargic	urga=b	362	between	spatial		dative	dative	1	1	0	1	0	suffix		
+Mehweb	Dargic	dura=b	363	outside	spatial		dative	dative	1	1	0	1	0	suffix		
+Mehweb	Dargic	b=ajcana=b	364	in the middle	spatial		dative	dative	1	1	0	1	1	prefix and suffix		
+Mehweb	Dargic	ʔu=b	365	under	spatial		genitive	dative	1	1	0	1	0	suffix		
+Mehweb	Dargic	ʡa=b=ad	366	behind	spatial		genitive	dative	1	1	0	1	1	infix		
+Mehweb	Dargic	ha=CL=ha=CL	367	ahead	spatial		dative	dative		1	0	1	1	suffix		
+Mehweb	Dargic	CL=ijal	368	together with	abstract		comitative	dative		1	0	1	1	prefix		
+Mehweb	Dargic	aqu=b	369	above	spatial		dative	dative		1	0	1	0	suffix		
+Mehweb	Dargic	sarajje	370	for	abstract		absolutive	absolutive		1	0	0	0			
+Mehweb	Dargic	bahandale	371	for	abstract		absolutive	absolutive		1	1	0	0			
+Kajtak	Dargic	darxčili	372	direct	spatial		absolutive	absolutive	0		0	0	0			
+Kajtak	Dargic	darxčili	372	direct	spatial		dative	dative	0		0	0	0			
+Kajtak	Dargic	ɢaršili	373	opposite	spatial		dative	dative	0		1	0	0			
+Kajtak	Dargic	däʡčili	374	facing	spatial	noun	dative	dative	0		0	0	0			
+Kajtak	Dargic	bakni	375	in	spatial		genitive	genitive	1	1	0	0	0			
+Kajtak	Dargic	dagna	376	in the middle	spatial		genitive	genitive	1	1	0	0	0			
+Kajtak	Dargic	urkːa	377	between	spatial				1		0	0	0			
+Kajtak	Dargic	če	378	on	spatial		genitive	genitive	1	1	0	0	0			
+Kajtak	Dargic	če	378	under	spatial		genitive	genitive	1	1	0	0	0			
+Kajtak	Dargic	saʁli	379	in front of	spatial		genitive	genitive	1	1	0	0	0			
+Kajtak	Dargic	mäʁla	380	behind	spatial		genitive	genitive	1	1	0	0	0			
+Kajtak	Dargic	hiräɢːä	381	behind	spatial		genitive	genitive	1	1	0	0	0			
+Kajtak	Dargic	mäq'e	382	near	spatial		genitive	genitive	1	1	0	0	0			
+Kajtak	Dargic	alaw	383	around	spatial				1		0	0	0			
+Kajtak	Dargic	tːura	384	out	spatial		genitive	genitive	1	1	0	0	0			
+Kajtak	Dargic	guni	385	under	spatial		genitive	genitive	1	1	0	0	0			
+Kajtak	Dargic	šele	386	beside	spatial		genitive	genitive		1	0	0	0			
+Itsari	Dargic	tura=b	387	outside	spatial	noun	genitive	genitive	1	1	0	1	0	suffix		
+Itsari	Dargic	tura=b	388	except	abstract	noun	genitive	genitive	0	1	0	1	0	suffix		
+Itsari	Dargic	sala=b	389	in front of	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Itsari	Dargic	hela=b	390	behind	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Itsari	Dargic	xxari=b	391	beneath	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Itsari	Dargic	qari=b	392	above	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Itsari	Dargic	šalliči=b	393	near	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Itsari	Dargic	urkka=b	394	between	spatial		absolutive	absolutive	1	1	0	1	0	suffix		
+Itsari	Dargic	urkka=b	394	between	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Itsari	Dargic	kkʷi=b	395	inside	spatial		illative	illative	1	1	0	1	0	suffix		
+Itsari	Dargic	tti=b	396	behind	spatial		postlative	postlative	1	1	0	1	0	suffix		
+Itsari	Dargic	šal	397	about	abstract		genitive	genitive	0	1	0	0	0			
+Itsari	Dargic	ssunni	398	like	abstract		genitive	genitive	0	1	0	0	0			
+Itsari	Dargic	pajla	399	instead	abstract		genitive	genitive	0	1	0	0	0			
+Itsari	Dargic	b=arxxil	400	directly towards	spatial		absolutive	absolutive	0	1	0	1	1	prefix		
+Itsari	Dargic	b=arxxil	400	directly towards	spatial		superlative	superlative	0	1	0	1	1	prefix		
+Itsari	Dargic	b=alli	401	together with	abstract		illative	illative	0	1	0	1	1	prefix		
+Itsari	Dargic	hekkil	402	close to	spatial		superlative	superlative	0	1	0	0	0			
+Itsari	Dargic	či=b	403	on	spatial		superlative	superlative	0	1	0	1	0	suffix		
+Itsari	Dargic	q'attina	404	for the sake of	abstract		superlative	superlative	0	1	0	0	0			
+Itsari	Dargic	w=alli	405	with	abstract		comitative	comitative	0	1	0	1	1	prefix		
+Itsari	Dargic	Halsibli	406	according to	abstract		absolutive	absolutive	0		0	0	0			
+Itsari	Dargic	hanni	407	caring for	abstract		absolutive	absolutive	0		0	0	0			
+Itsari	Dargic	bahandan	408	because of	abstract		absolutive	absolutive	0		1	0	0			
+Itsari	Dargic	sar	409	before	temporal		superelative	superelative	0		0	0	0			
+Itsari	Dargic	malq'inna	410	until	temporal		superlative	superlative	0		0	0	0			
+Itsari	Dargic	xːarri	411	although	abstract		absolutive	absolutive	0		0	0	0			
+Itsari	Dargic	satːinna	412	as long as	abstract		absolutive	absolutive	0		0	0	0			
+Itsari	Dargic	lehetːi	413	after	temporal		absolutive	absolutive	0		0	0	0			
+Itsari	Dargic	(h)eːr	414	like	abstract		absolutive	absolutive	0		0	0	0			
+Itsari	Dargic	zamana	415	when	temporal		genitive	genitive	0		1	0	0			
+Sanzhi	Dargic	sala=b	416	in front of	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	sala=b	416	ago	temporal		genitive	genitive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	sa=b	417	in front of	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	sa=b	418	ago	temporal		absolutive	absolutive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	hila=b	419	behind	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	hitːi=b	420	behind	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	xːari=b	421	under	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	qari=b	422	above	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	qari=b	422	about	abstract		genitive	genitive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	či=b	423	on	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	či=b	423	on	spatial		locative	locative	1	1	0	1	0	suffix		
+Sanzhi	Dargic	urkːa=b	424	in the middle	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	urkːa=b	424	in the middle	spatial		absolutive	absolutive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	b=i=b	425	inside	spatial		locative	locative	1	1	0	1	1	prefix and suffix		
+Sanzhi	Dargic	b=i=b	425	inside	spatial		inessive	inessive	1	1	0	1	1	prefix and suffix		
+Sanzhi	Dargic	b=i=b	425	inside	spatial		genitive	genitive	1	1	0	1	1	prefix and suffix		
+Sanzhi	Dargic	šːule=b	426	aside	spatial	noun	genitive	genitive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	tːura=b	427	outside	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Sanzhi	Dargic	tːura=b	428	except	abstract		genitive	genitive		1	0	1	0	suffix		
+Sanzhi	Dargic	tːura=b	428	except	abstract		loc-ablative	loc-ablative		1	0	1	0	suffix		
+Sanzhi	Dargic	b=alli	429	together with	abstract		comitative	comitative	0	1	0	1	1	prefix		
+Sanzhi	Dargic	b=alli	429	together with	abstract		in-ablative	in-ablative	0	1	0	1	1	prefix		
+Sanzhi	Dargic	canille	430	together with	abstract	numeral	comitative	comitative	0	1	0	0	0			
+Sanzhi	Dargic	bahanne	431	because of	abstract	noun	absolutive	absolutive	0		1	0	0			
+Sanzhi	Dargic	akʷːar	432	without	abstract	verb	absolutive	absolutive	0		0	0	0			
+Sanzhi	Dargic	q'atːin(na)	433	for the sake of	abstract		absolutive	absolutive	0		0	0	0			
+Sanzhi	Dargic	ħaˁsible	434	according to	abstract		absolutive	absolutive	0		1	0	0			
+Lak	Lak	xːič'un<m>aj	435	before	spatial		comparative	comparative	1	1	0	1	0	suffix		
+Lak	Lak	xːič'un<m>aj	436	before	temporal		genitive	genitive	1	1	0	1	0	suffix		
+Lak	Lak	wi<pː>aj	437	inside	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Lak	Lak	č'araw<w>aj	438	near	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Lak	Lak	čulin<m>aj	439	beside	spatial	noun	genitive	genitive	1	1	0	1	0	suffix		
+Lak	Lak	maqun<m>aj	440	behind	spatial		comparative	comparative	1	1	0	1	0	suffix		
+Lak	Lak	maqun<m>aj	441	after	temporal		genitive	genitive	1	1	0	1	0	suffix		
+Lak	Lak	muq'uχun<m>aj	442	following	spatial	noun			1	1	0	1	0	suffix		
+Lak	Lak	jaluw<w>aj	443	above	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Lak	Lak	jalu	444	for	abstract					0	0	0	0			
+Lak	Lak	luw<pː>aj	445	below	spatial		genitive	genitive	1	1	0	1	0	suffix		
+Lak	Lak	daˁniwn<m>aj	446	in the middle	spatial	noun	genitive	genitive	1	1	0	1	0	suffix		
+Lak	Lak	lagma=w=a	447	around	spatial		genitive	genitive		1	0	1	0	suffix		
+Lak	Lak	q'at'u<w>aj	448	outside	spatial	noun	genitive	genitive	1	1	0	1	0	suffix		
+Lak	Lak	oˁiwan	449	for spite	abstract		genitive	genitive		1	0	0	0			
+Lak	Lak	arħal	450	together with	abstract		comitative	comitative		1	0	0	0			
+Lak	Lak	χːišala	451	except	abstract		comparative	comparative		1	0	0	0			
+Lak	Lak	sawawnu	452	because of	abstract	noun	absolutive	absolutive			1	0	0			
+Lak	Lak	ħisawraj	453	about	abstract		absolutive	absolutive		1	0	0	0		may contain class marker but maybe it is fossilized	
+Lak	Lak	qːaršinu	454	opposite	spatial		superallative	superallative		1	1	0	0			
+Lak	Lak	k'an<tː>aj	455	instead	abstract	noun	dative	dative		0	0	1	0	suffix		
+Lak	Lak	qiriw	456	following	spatial		genitive	genitive		1	0	0	0			
+Lak	Lak	c'anij	457	for	abstract	noun				0	0	0	0			
+Lak	Lak	χːulːij	458	for	abstract	noun				0	0	0	0		outdated	
+Lak	Lak	ħaqːirawu	459	about	abstract					0	1	0	0			
+Lak	Lak	lažindaraj	460	during	temporal	noun				0	0	0	0		may contain class marker but maybe it is fossilized	
+Lak	Lak	b=uruwgun	461	compared to	abstract	verb				0	0	1	1	prefix		
+Lak	Lak	b=uwnu	462	according to	abstract	verb				0	0	1	1	prefix		
+Lak	Lak	b=aqːaː	463	without	abstract	verb				0	0	1	1	prefix		
+Lak	Lak	bak'raj	464	in the beginning	temporal	noun				0	0	0	0			
+Lak	Lak	zumunu	465	like	abstract					0	0	0	0			
+Kina Rutul	Lezgic	ɢaršuja	466	facing (dynamic)	spatial		attributive	attributive	0	1	1	0	0			
+Kina Rutul	Lezgic	ɢaršuja	467	facing (static)	spatial		attributive	attributive	0	0	1	0	0			
+Kina Rutul	Lezgic	ǯɨbra	468	following	spatial	noun	attributive	attributive	1	1	0	0	0			
+Kina Rutul	Lezgic	aː-uː	469	around	spatial		attributive	attributive	0	1	0	0	0			
+Kina Rutul	Lezgic	xura	470	in front of	spatial		attributive	attributive	1	1	0	0	0			
+Kina Rutul	Lezgic	xala	471	behind	spatial		attributive	attributive	1	1	0	0	0			
+Kina Rutul	Lezgic	bejda	472	beside	spatial	noun	attributive	attributive	1	1	0	0	0			
+Kina Rutul	Lezgic	bejda	472	beside	spatial	noun	dative	dative	1	1	0	0	0			
+Kina Rutul	Lezgic	uliχda	473	in front of	spatial	noun	attributive	attributive	1	1	0	0	0			
+Kina Rutul	Lezgic	q'aneχda	474	under	spatial	noun	attributive	attributive	1	1	0	0	0			
+Kina Rutul	Lezgic	jɨˁq'a	475	between	spatial	noun	attributive	attributive	1	0	0	0	0			
+Kina Rutul	Lezgic	jɨˁq'aχda	476	behind	spatial	noun	attributive	attributive	1	1	0	0	0			
+Kina Rutul	Lezgic	badana	477	for	abstract		attributive	attributive	0	0	1	0	0			
+Kina Rutul	Lezgic	gura	478	regarding	abstract		dative	dative	0	0	1	0	0			
+Kina Rutul	Lezgic	jerinde	479	instead	abstract		attributive	attributive	0	0	1	0	0			
+Kina Rutul	Lezgic	ʁajire	480	except	abstract		superelative	superelative	0	0	1	0	0			
+Tsakhur	Lezgic	jiˁqq'aliʲ	481	behind	spatial	noun	attributive	attributive	1	1	0	0	0			
+Tsakhur	Lezgic	muglekʲ	482	near	spatial	noun	attributive	attributive	1	1	0	0	0			
+Tsakhur	Lezgic	ɢeraʁɨlʲ	483	near	spatial	noun	attributive	attributive		0	0	0	0			
+Tsakhur	Lezgic	aq'ʷalʲ	484	on	spatial	noun	attributive	attributive		0	0	0	0			
+Tsakhur	Lezgic	arajlʲ	485	among	spatial	noun	attributive	attributive	1	0	1	0	0			
+Tsakhur	Lezgic	a=d	486	in	spatial		inessive	inessive		1	0	1	1	suffix		
+Tsakhur	Lezgic	alla	487	because of	abstract		superessive	superessive		0	0	0	0			
+Tsakhur	Lezgic	alqa	488	from	spatial		superelative	superelative		1	0	0	0			
+Tsakhur	Lezgic	alqa	488	about	abstract		superelative	superelative		1	0	0	0			
+Tsakhur	Lezgic	awu=d	489	below	spatial		contessive	contessive	1	1	0	1	1	suffix		
+Tsakhur	Lezgic	ʁajra	490	except	abstract		superessive	superessive		0	1	0	0			
+Tsakhur	Lezgic	aʁalla	491	above	spatial		superelative	superelative		0	0	0	0			
+Tsakhur	Lezgic	aʁalla	491	above	spatial		contelative	contelative		0	0	0	0			
+Tsakhur	Lezgic	ahnʲa	492	under	spatial		superelative	superelative		1	0	0	0			
+Tsakhur	Lezgic	gora	493	because of	abstract		contallative	contallative		0	1	0	0			
+Tsakhur	Lezgic	haˁk'eː	494	about	abstract		attributive	attributive		0	1	0	0			
+Tsakhur	Lezgic	hiqa	495	ahead	spatial		attributive	attributive		1	0	0	0			
+Tsakhur	Lezgic	hiqa	496	compared to	abstract		superelative	superelative		1	0	0	0			
+Tsakhur	Lezgic	hiqiːʔalla	497	around	spatial		attributive	attributive		1	0	0	0			
+Tsakhur	Lezgic	janalʲ	498	beside	spatial	noun	attributive	attributive	1	0	1	0	0			
+Tsakhur	Lezgic	k'ane	499	near	spatial		attributive	attributive	1	1	0	0	0			
+Tsakhur	Lezgic	meː	500	till	spatial		attributive	attributive			0	0	0			
+Tsakhur	Lezgic	meː	500	for	abstract		attributive	attributive			0	0	0			
+Tsakhur	Lezgic	oˁgiːlʲ	501	in front of	spatial		attributive	attributive	1	1	0	0	0			
+Tsakhur	Lezgic	qihnʲa	502	following	spatial		possessive	possessive		1	0	0	0			
+Tsakhur	Lezgic	qihnʲa	502	following	spatial		attributive	attributive		1	0	0	0			
+Tsakhur	Lezgic	qiʁa	503	after	temporal		superelative	superelative		1	0	0	0			
+Tsakhur	Lezgic	sana	504	together with	abstract		comitative	comitative		0	0	0	0			
+Tsakhur	Lezgic	saǯigeː	505	together with	abstract		comitative	comitative		0	0	0	0			
+Tsakhur	Lezgic	sak'ɨ	506	according to	abstract		dative	dative		0	0	0	0			
+Tsakhur	Lezgic	uʁa	507	above	spatial		superessive	superessive	1	1	0	0	0			
+Lezgian	Lezgic	k'anik	508	under	spatial	noun	genitive	genitive	1	1	0	0	0			
+Lezgian	Lezgic	q'iliw	509	near	spatial	noun	genitive	genitive		1	0	0	0			
+Lezgian	Lezgic	qwalaw	510	near	spatial	noun	genitive	genitive		1	0	0	0			
+Lezgian	Lezgic	arada	511	between	spatial	noun	genitive	genitive	1	1	1	0	0			
+Lezgian	Lezgic	patal	512	for	abstract		absolutive	absolutive		0	1	0	0			
+Lezgian	Lezgic	pataj	513	from	spatial	noun	genitive	genitive		0	0	0	0			
+Lezgian	Lezgic	čkadal	514	instead	abstract	noun	genitive	genitive		1	0	0	0			
+Lezgian	Lezgic	qanšardiz	515	to	spatial	noun	genitive	genitive		1	1	0	0			
+Lezgian	Lezgic	ɢene	516	inside	spatial	noun	genitive	genitive	1	1	0	0	0			
+Lezgian	Lezgic	juq'wa	517	in the middle	spatial	noun				1	0	0	0			
+Lezgian	Lezgic	muq'uw	518	near	spatial	noun	genitive	genitive	1	1	0	0	0			
+Lezgian	Lezgic	qːece	519	outside	spatial		superelative	superelative	1	1	0	0	0			
+Lezgian	Lezgic	winel	520	above	spatial		genitive	genitive	1	1	0	0	0			
+Lezgian	Lezgic	winiz	521	above	spatial		inelative	inelative		1	0	0	0			
+Lezgian	Lezgic	aǧuz	522	down	spatial		inelative	inelative	1	1	0	0	0			
+Lezgian	Lezgic	wilik	523	in front of	spatial	noun	genitive	genitive	1	1	0	0	0			
+Lezgian	Lezgic	wilik	524	before	temporal	noun	superelative	superelative	0	1	0	0	0			
+Lezgian	Lezgic	q'uluqh	525	behind	spatial	noun	genitive	genitive	1	1	0	0	0			
+Lezgian	Lezgic	q'uluqh	526	after	temporal	noun	superelative	superelative		1	0	0	0			
+Lezgian	Lezgic	güǧüna	527	behind	spatial		genitive	genitive	1	1	0	0	0			
+Lezgian	Lezgic	güǧüna	528	after	temporal		superelative	superelative		1	0	0	0			
+Lezgian	Lezgic	kiligna	529	according to	abstract	verb	dative	dative		0	0	0	0			
+Lezgian	Lezgic	kwačiz	530	except	abstract	verb	absolutive	absolutive		0	0	0	0			
+Lezgian	Lezgic	galaz	531	with	abstract	verb	postessive	postessive		1	0	0	0			
+Lezgian	Lezgic	galaz	531	with	abstract	verb	absolutive	absolutive		1	0	0	0			
+Lezgian	Lezgic	gwaz	532	with	abstract	verb	absolutive	absolutive		1	0	0	0			
+Lezgian	Lezgic	ǧejri	533	except	abstract		superelative	superelative		0	1	0	0			
+Lezgian	Lezgic	bašqa	534	except	abstract		superelative	superelative		0	1	0	0			
+Lezgian	Lezgic	haqqindaj	535	about	abstract		genitive	genitive		0	1	0	0			
+Lezgian	Lezgic	baradaj	536	about	abstract		genitive	genitive		0	0	0	0			
+Lezgian	Lezgic	aksi	537	against	spatial		dative	dative		1	0	0	0			
+Lezgian	Lezgic	aksina	538	against	spatial		genitive	genitive		1	0	0	0			
+Lezgian	Lezgic	qqarši	539	opposite	spatial		dative	dative		1	1	0	0			
+Udi	Lezgic	č'ägi	540	late	temporal	noun					0	0	0			
+Udi	Lezgic	q'ati	541	between	spatial	noun	genitive	genitive	0		0	0	0			
+Udi	Lezgic	best'a	542	in front of	spatial	noun	genitive	genitive	1		0	0	0			
+Udi	Lezgic	k'ena	543	like	abstract		absolutive	absolutive			0	0	0			
+Udi	Lezgic	oq'a	544	under	spatial		genitive	genitive	1		0	0	0			
+Udi	Lezgic	ganu	545	instead	abstract	noun	genitive	genitive			0	0	0			
+Udi	Lezgic	baxt'in	546	for	abstract		genitive	genitive			0	0	0			
+Udi	Lezgic	boš	547	in	spatial		genitive	genitive	1		0	0	0			
+Udi	Lezgic	qošt'an	548	behind	spatial		genitive	genitive	1		0	0	0			
+Udi	Lezgic	beˁǧeˁl	549	between	spatial				1		0	0	0			
+Udi	Lezgic	t'oˁǧoˁl	550	at	spatial		genitive	genitive	1		0	0	0			
+Udi	Lezgic	laxo	551	on	spatial		genitive	genitive	0		0	0	0		historically derived from noun	
+Udi	Lezgic	oˁśa	552	after	temporal		ablative	ablative			0	0	0			
+Udi	Lezgic	t'oš	553	outside	spatial		ablative	ablative	1		0	0	0			
+Udi	Lezgic	cirik'	554	till	spatial	verb	superessive	superessive			0	0	0			
+Udi	Lezgic	lari	555	like	abstract	verb	superessive	superessive			0	0	0			
+Udi	Lezgic	tüš	556	against	spatial		genitive	genitive			1	0	0			
+Udi	Lezgic	t'ečo	557	beyond	spatial						0	0	0			
+Udi	Lezgic	axil	558	near	spatial						0	0	0			
+Udi	Lezgic	bip'čo	559	around	spatial		genitive	genitive			0	0	0			
+Udi	Lezgic	ǯok'	560	except	spatial		ablative	ablative			0	0	0			
+Tabasaran	Lezgic	ulih	561	in front of	spatial	noun	genitive	genitive	1	0	0	0	0			
+Tabasaran	Lezgic	ulih	562	before	temporal	noun	genitive	genitive		0	0	0	0			
+Tabasaran	Lezgic	ulih	562	before	temporal	noun	dative	dative		0	0	0	0			
+Tabasaran	Lezgic	ulih	562	before	temporal	noun	superelative	superelative		0	0	0	0			
+Tabasaran	Lezgic	q'älaq	563	behind	spatial	noun	genitive	genitive	1	1	0	0	0			
+Tabasaran	Lezgic	q'äla'	564	in the middle	spatial	noun	genitive	genitive	1		0	0	0			
+Tabasaran	Lezgic	qːʷalaq	565	near	spatial	noun	genitive	genitive	1	0	0	0	0			
+Tabasaran	Lezgic	k'anakː	566	under	spatial	noun	genitive	genitive	1	1	0	0	0			
+Tabasaran	Lezgic	arajiʔ	567	between	spatial	noun	genitive	genitive	1	0	1	0	0			
+Tabasaran	Lezgic	k'ullan	568	for	abstract	noun	genitive	genitive			0	0	0			
+Tabasaran	Lezgic	xabaqh	569	in hands	spatial		genitive	genitive	1		0	0	0			
+Tabasaran	Lezgic	bagah	570	beside	spatial	noun	genitive	genitive	1	1	0	0	0			
+Tabasaran	Lezgic	yarxla	571	far from	spatial		adelative	adelative	1		0	0	0		historically derived from noun	
+Tabasaran	Lezgic	ǧät'niqh	572	inside	spatial		genitive	genitive	1		0	0	0			
+Tabasaran	Lezgic	ayit'	573	in	spatial	noun	genitive	genitive	1	1	0	0	0			
+Tabasaran	Lezgic	ǧanšariʔ	574	opposite	spatial	noun	genitive	genitive	1	0	1	0	0			
+Tabasaran	Lezgic	ǧanšariʔ	574	opposite	spatial	noun	dative	dative	1	0	1	0	0			
+Tabasaran	Lezgic	zaʔin	575	above	spatial		genitive	genitive	1	1	0	0	0			
+Tabasaran	Lezgic	asikk	576	below	spatial		genitive	genitive	1	1	0	0	0			
+Tabasaran	Lezgic	bašqa	577	except	abstract		superelative	superelative		0	1	0	0			
+Tabasaran	Lezgic	bašqa	577	except	abstract		comparative	comparative		0	1	0	0			
+Tabasaran	Lezgic	ǧayri	578	except	abstract		superelative	superelative		0	1	0	0			
+Tabasaran	Lezgic	ǧayri	578	except	abstract		comparative	comparative		0	1	0	0			
+Tabasaran	Lezgic	savayi	579	except	abstract		superelative	superelative		0	1	0	0			
+Tabasaran	Lezgic	savayi	579	except	abstract		comparative	comparative		0	1	0	0			
+Tabasaran	Lezgic	häq'naʔan	580	about	abstract		genitive	genitive		0	1	0	0			
+Tabasaran	Lezgic	badali	581	for	abstract		genitive	genitive		0	1	0	0			
+Tabasaran	Lezgic	badali	581	for	abstract		absolutive	absolutive		0	1	0	0			
+Tabasaran	Lezgic	qaršu	582	opposite	spatial		dative	dative		0	1	0	0			
+Tabasaran	Lezgic	äksi	583	against	spatial		dative	dative		1	0	0	0			
+Tabasaran	Lezgic	lignu	584	according to	abstract	verb	dative	dative		0	0	0	0			
+Tabasaran	Lezgic	xhadi	585	with	abstract	verb	absolutive	absolutive			0	0	0			
+Tabasaran	Lezgic	qhadi	586	with	abstract	verb	absolutive	absolutive		1	0	0	0			
+Tabasaran	Lezgic	žihetnaan	587	about	abstract						1	0	0			
+Tabasaran	Lezgic	jerina	588	instead	abstract					0	1	0	0			
+Kryz	Lezgic	q'anik	589	under	spatial	noun	genitive	genitive	1	1	0	0	0			
+Kryz	Lezgic	adé0	590	on	spatial	noun	genitive	genitive	1	1	0	0	0			
+Kryz	Lezgic	q'ale0	591	in the end	spatial	noun	genitive	genitive	1	1	0	0	0			
+Kryz	Lezgic	yiq'.ca	592	behind	spatial	noun	genitive	genitive	1	1	0	0	0			
+Kryz	Lezgic	yiq'iç'a	593	in	spatial	noun	genitive	genitive	1	1	0	0	0			
+Kryz	Lezgic	bigila	594	near	spatial	noun	genitive	genitive	1	1	0	0	0			
+Kryz	Lezgic	ǧali	595	about	abstract	noun	superelative	superelative		0	0	0	0			
+Kryz	Lezgic	çıxé	596	following	spatial	noun	genitive	genitive		0	0	0	0			
+Kryz	Lezgic	çıxé	597	after	temporal	noun	superelative	superelative		0	0	0	0			
+Kryz	Lezgic	meq'aw	598	close to	spatial	noun				0	0	0	0			
+Kryz	Lezgic	karta	599	till	spatial		dative	dative		0	0	0	0			
+Kryz	Lezgic	araca	600	between	spatial		genitive	genitive	1	1	1	0	0			
+Kryz	Lezgic	urtaca	601	in the middle	spatial		genitive	genitive			1	0	0			
+Kryz	Lezgic	tuşuna	602	opposite	spatial		genitive	genitive			1	0	0			
+Kryz	Lezgic	ta0ar	603	like	abstract		genitive	genitive		1	1	0	0			
+Kryz	Lezgic	sayaǧ	604	like	abstract		genitive	genitive		1	1	0	0			
+Kryz	Lezgic	badala	605	for	abstract		genitive	genitive		0	1	0	0			
+Kryz	Lezgic	baraca	606	about	abstract		genitive	genitive		0	1	0	0			
+Kryz	Lezgic	ǧayra	607	except	abstract		adelative	adelative		0	1	0	0			
+Budukh	Lezgic	q'ocije	608	in the middle	spatial	noun	locative	locative	1	0	0	0	0			
+Budukh	Lezgic	q'anik	609	under	spatial	noun	locative	locative	1	0	0	0	0			
+Budukh	Lezgic	q'anik	609	under	spatial	noun	genitive	genitive	1	0	0	0	0			
+Budukh	Lezgic	ɣada	610	above	spatial	noun	locative	locative	1	1	0	0	0			
+Budukh	Lezgic	badala	611	for	abstract		dative	dative		0	1	0	0			
+Budukh	Lezgic	badak'	612	beside	spatial	noun	genitive	genitive			0	0	0			
+Budukh	Lezgic	araǯa	613	in the middle	spatial	noun	locative	locative	1	1	1	0	0			
+Budukh	Lezgic	ɢabaʁǯar	614	before	spatial	noun	locative	locative	1	1	1	0	0			
+Budukh	Lezgic	janǯe	615	near	spatial	noun	locative	locative		0	1	0	0			
+Budukh	Lezgic	ɢal	616	along up	spatial		comitative	comitative		0	0	0	0			
+Budukh	Lezgic	ɣal	617	along down	spatial		comitative	comitative		0	0	0	0			
+Budukh	Lezgic	maq'am	618	till	spatial		locative	locative		0	0	0	0			
+Budukh	Lezgic	ǯima	619	like	abstract		absolutive	absolutive		0	0	0	0			
+Budukh	Lezgic	xakila	620	behind	spatial		locative	locative	1	1	0	0	0			
+Budukh	Lezgic	xanˁurən	621	around	spatial		locative	locative		1	0	0	0			
+Budukh	Lezgic	xan	622	behind	spatial		locative	locative		1	0	0	0			
+Budukh	Lezgic	ˁurən	623	in front of	spatial		locative	locative		0	0	0	0			
+Budukh	Lezgic	ˁulər	624	in front of	spatial	noun	locative	locative			0	0	0			
+Budukh	Lezgic	əgəm	625	in exchange for	abstract		dative	dative			0	0	0			
+Budukh	Lezgic	q'adɨna	626	between	spatial		genitive	genitive		0	1	0	0			
+Budukh	Lezgic	jiq'ije	627	in the middle	spatial	noun					0	0	0			
+Budukh	Lezgic	urtaǯe	628	in the middle	spatial	noun					0	0	0			
+Budukh	Lezgic	alxa	629	behind	spatial					1	0	0	0			
+Budukh	Lezgic	ɢaragaǯe	630	around	spatial					1	0	0	0			
+Budukh	Lezgic	horeǯe	631	according to	abstract					0	1	0	0			
+Budukh	Lezgic	wiǯena	632	with	abstract						0	0	0			
+Budukh	Lezgic	dabǯena	633	without	abstract						0	0	0			
+Budukh	Lezgic	ǯigaǯa	634	instead	abstract		genitive	genitive		1	0	0	0			
+Budukh	Lezgic	boda	635	near	spatial					1	0	0	0			
+Archi	Lezgic	k'arak	636	under	spatial		dative	dative	1	1	0	0	0			
+Archi	Lezgic	xʷak	637	near	spatial		dative	dative	1	1	0	0	0			
+Archi	Lezgic	sababši	638	because of	abstract		absolutive	absolutive		0	1	0	0			
+Archi	Lezgic	xʷašul	639	regarding	abstract		dative	dative		0	0	0	0			
+Archi	Lezgic	ħaq'liqˁ	640	about	abstract		genitive	genitive		0	1	0	0			
+Archi	Lezgic	jatti	641	above	spatial		dative	dative	1	1	0	0	0			
+Archi	Lezgic	jatti	641	above	spatial		superelative	superelative	1	1	0	0	0			
+Archi	Lezgic	harak	642	ahead	spatial		dative	dative	1	1	0	0	0			
+Archi	Lezgic	χarak	643	behind	spatial		dative	dative	1	1	0	0	0			
+Archi	Lezgic	χarak	643	behind	spatial		ergative	ergative	1	1	0	0	0			
+Archi	Lezgic	χarak	644	after	temporal		superelative	superelative		1	0	0	0			
+Archi	Lezgic	lagɨmat	645	around	spatial		absolutive	absolutive	0	1	1	0	0			
+Archi	Lezgic	iˁʁda	646	in the middle	spatial		genitive	genitive		0	0	0	0			
+Archi	Lezgic	q'ˁon	647	between	spatial		dative	dative	1	1	0	0	0			
+Archi	Lezgic	q'ˁon	647	between	spatial		genitive	genitive	1	1	0	0	0			
+Archi	Lezgic	xʷat'aw	648	apart from	abstract		absolutive	absolutive		0	0	0	0			
+Archi	Lezgic	biqʷ'ma	649	instead	abstract		genitive	genitive		0	0	0	0			
+Archi	Lezgic	xʷaːna	650	according to	abstract		genitive	genitive		0	0	0	0			
+Archi	Lezgic	e=CL=q'en	651	till	spatial	verb	superlative	superlative		0	0	1	1	infix		
+Muxad Rutul	Lezgic	ulixde	652	in front of	spatial	noun	attributive	attributive	1	1	0	0	0			
+Muxad Rutul	Lezgic	ulixde	652	in front of	spatial	noun	comparative	comparative	1	1	0	0	0			
+Muxad Rutul	Lezgic	begede	653	near	spatial	noun				1	0	0	0			
+Muxad Rutul	Lezgic	arɨdi	654	between	spatial	noun	attributive	attributive	1	1	1	0	0			
+Muxad Rutul	Lezgic	bejde	655	near	spatial		attributive	attributive	1	1	0	0	0			
+Muxad Rutul	Lezgic	jɨˁq'aχda	656	behind	spatial	noun	attributive	attributive	1	1	0	0	0			
+Muxad Rutul	Lezgic	eli	657	above	spatial		attributive	attributive	1	1	0	0	0			
+Muxad Rutul	Lezgic	eli	657	above	spatial		comparative	comparative	1	1	0	0	0			
+Muxad Rutul	Lezgic	xalaa	658	behind	spatial		attributive	attributive	1	1	0	0	0			
+Muxad Rutul	Lezgic	xalaa	658	behind	spatial		comparative	comparative	1	1	0	0	0			
+Muxad Rutul	Lezgic	q'ule	659	in the beginning	spatial	noun	attributive	attributive		1	0	0	0			
+Muxad Rutul	Lezgic	ǯɨbra	660	following	spatial	noun	attributive	attributive	1	1	0	0	0			
+Muxad Rutul	Lezgic	ǯɨbra	660	following	spatial	noun	comparative	comparative	1	1	0	0	0			
+Muxad Rutul	Lezgic	aa	661	below	spatial		attributive	attributive	1	1	0	0	0			
+Muxad Rutul	Lezgic	aa	661	below	spatial		comparative	comparative	1	1	0	0	0			
+Muxad Rutul	Lezgic	uu	662	above	spatial		attributive	attributive	1	1	0	0	0			
+Muxad Rutul	Lezgic	uu	662	above	spatial		comparative	comparative	1	1	0	0	0			
+Muxad Rutul	Lezgic	xura	663	ahead	spatial		comparative	comparative	1	1	0	0	0			
+Muxad Rutul	Lezgic	ʔara	664	in	spatial		inessive	inessive	1	1	0	0	0			
+Muxad Rutul	Lezgic	ʁara	665	outside	spatial				1	1	0	0	0			
+Muxad Rutul	Lezgic	xesɨmaj	666	towards	spatial	noun				1	0	0	0			
+Luchek Rutul	Lezgic	quʔ	667	after	temporal		superelative	superelative			0	0	0			
+Luchek Rutul	Lezgic	ǯibra	668	following	spatial	noun	genitive	genitive			0	0	0			
+Luchek Rutul	Lezgic	bejdɨ	669	nearby	spatial	noun	genitive	genitive			0	0	0			
+Luchek Rutul	Lezgic	uː	670	above	spatial		inessive	inessive			0	0	0			
+Luchek Rutul	Lezgic	ulik	671	in front of	spatial	noun	genitive	genitive			0	0	0			
+Luchek Rutul	Lezgic	yerinen	672	instead	abstract	noun	genitive	genitive			1	0	0			
+Agul	Lezgic	qawaq	673	behind	spatial	noun	genitive	genitive	1	1	0	0	0			
+Agul	Lezgic	bugulih	674	near	spatial	noun	genitive	genitive	1	1	0	0	0			
+Agul	Lezgic	wartːal	675	above	spatial		genitive	genitive	1	1	0	0	0			
+Agul	Lezgic	qːiraǧiq	676	on the edge	spatial		genitive	genitive	1	1	0	0	0			
+Agul	Lezgic	arajiǧ'	677	between	spatial		genitive	genitive	1	1	1	0	0			
+Agul	Lezgic	k'enakʷ	678	below	spatial		genitive	genitive	1	1	0	0	0			
+Agul	Lezgic	ǧ'äna'	679	inside	spatial		genitive	genitive	1	1	0	0	0			
+Agul	Lezgic	udih	680	in front of	spatial	noun	genitive	genitive	1	1	0	0	0			
+Agul	Lezgic	ilah	681	in front of	spatial		genitive	genitive	1		0	0	0			
+Agul	Lezgic	badaldi	682	for	abstract		genitive	genitive		0	1	0	0			
+Agul	Lezgic	bašʁa	683	except	abstract		superelative	superelative		0	1	0	0			
+Agul	Lezgic	ʁajri	684	except	abstract		superelative	superelative		0	1	0	0			
+Agul	Lezgic	ħeɢindi	685	instead	abstract		genitive	genitive		0	1	0	0			
+Agul	Lezgic	ħeqindias	686	about	abstract		genitive	genitive		0	1	0	0			
+Hinuq	Tsezic	purho	687	near	spatial	noun	locessive	locessive	1	1	0	0	0			
+Hinuq	Tsezic	ʎ’oq’ʷar	688	opposite	spatial	noun	locessive	locessive	0	1	0	0	0			
+Hinuq	Tsezic	ʎ’oq’ʷar	688	opposite	spatial	noun	genitive	genitive	0	1	0	0	0			
+Hinuq	Tsezic	sababłun	689	because of	abstract	noun	absolutive	absolutive	0	0	1	0	0			
+Hinuq	Tsezic	močaː	690	instead	abstract	noun	genitive	genitive	0	1	0	0	0			
+Hinuq	Tsezic	teł	691	in	spatial		contessive	contessive	1	1	0	0	0			
+Hinuq	Tsezic	teł	691	in	spatial		inessive	inessive	1	1	0	0	0			
+Hinuq	Tsezic	sot'i	692	around	spatial		at-essive	at-essive	1	1	0	0	0			
+Hinuq	Tsezic	sot'i	692	around	spatial		locessive	locessive	1	1	0	0	0			
+Hinuq	Tsezic	igo	693	near	spatial		locessive	locessive	1	1	0	0	0			
+Hinuq	Tsezic	geʎ	694	below	spatial		subessive	subessive	1	1	0	0	0			
+Hinuq	Tsezic	geʎ	694	below	spatial		contessive	contessive	1	1	0	0	0			
+Hinuq	Tsezic	q'ʷec'e	695	with	abstract		locessive	locessive	0	1	0	0	0			
+Hinuq	Tsezic	ʎ'ere	696	on	spatial		superessive	superessive	1	1	0	0	0			
+Hinuq	Tsezic	hezzo	697	behind	spatial		contessive	contessive	1	0	0	0	0			
+Hinuq	Tsezic	hezzo	697	behind	spatial		locessive	locessive	1	0	0	0	0			
+Hinuq	Tsezic	hezzo	698	after	temporal		contessive	contessive		1	0	0	0			
+Hinuq	Tsezic	hezzo	698	after	temporal		locessive	locessive		1	0	0	0			
+Hinuq	Tsezic	aldoǧo	699	in front of	spatial		contessive	contessive	1	1	0	0	0			
+Hinuq	Tsezic	aldoǧo	699	in front of	spatial		locessive	locessive	1	1	0	0	0			
+Hinuq	Tsezic	aldoǧo	700	before	temporal		absolutive	absolutive		1	0	0	0			
+Hinuq	Tsezic	CL=oʎʎo	701	in the middle	spatial		locessive	locessive	1	1	0	1	1	prefix		
+Hinuq	Tsezic	CL=oʎʎo	701	in the middle	spatial		contessive	contessive	1	1	0	1	1	prefix		
+Hinuq	Tsezic	CL=oʎʎo	701	in the middle	spatial		inessive	inessive	1	1	0	1	1	prefix		
+Hinuq	Tsezic	req'un	702	according to	abstract		superessive	superessive	0	1	1	0	0			
+Hinuq	Tsezic	ʔolo	703	because of	abstract		abstract suffix	abstract suffix	0	0	1	0	0			
+Hinuq	Tsezic	ʔolo	703	because of	abstract		purposive suffix	purposive suffix	0	0	1	0	0			
+Hinuq	Tsezic	sadaq	704	with	abstract		locessive	locessive	0	1	1	0	0			
+Hinuq	Tsezic	gosme	705	without	abstract	verb	absolutive	absolutive	0	0	0	0	0			
+Hinuq	Tsezic	xecen	706	except	abstract	verb	absolutive	absolutive	0	1	0	0	0			
+Hinuq	Tsezic	ʎ'iyo	707	down	spatial				1	1	0	0	0			
+Hinuq	Tsezic	dandi	708	towards	spatial		locessive	locessive	1	1	1	0	0			
+Hinuq	Tsezic	gurjav	709	except	abstract		absolutive	absolutive	0	0		0	0			
+Hinuq	Tsezic	tarav	710	except	abstract		absolutive	absolutive	0	1		0	0			
+Hinuq	Tsezic	tarav	710	except	abstract		superelative	superelative	0	1		0	0			
+Hinuq	Tsezic	ħaq'moʎ	711	about	abstract		genitive	genitive	0	0	1	0	0			
+Khwarshi	Tsezic	puho	712	near	spatial	noun			1	1	0	0	0			
+Khwarshi	Tsezic	ʎ'olo	713	up	spatial		superessive	superessive	1	1	0	0	0			
+Khwarshi	Tsezic	ʎ'olo	713	up	spatial		genitive	genitive	1	1	0	0	0			
+Khwarshi	Tsezic	endu	714	in	spatial				1	1	0	0	0			
+Khwarshi	Tsezic	žoquža	715	behind	spatial		genitive	genitive	1	1	0	0	0			
+Khwarshi	Tsezic	atǧul	716	in front of	spatial					1	0	0	0			
+Khwarshi	Tsezic	gil	717	under	spatial		interessive	interessive	1	1	0	0	0			
+Khwarshi	Tsezic	gil	717	under	spatial		subessive	subessive	1	1	0	0	0			
+Khwarshi	Tsezic	q'udu	718	down	spatial		subessive	subessive		1	0	0	0			
+Khwarshi	Tsezic	solo	719	around	spatial		contessive	contessive		1	0	0	0			
+Khwarshi	Tsezic	oge	720	near	spatial		genitive	genitive	1	1	0	0	0			
+Khwarshi	Tsezic	oge	720	near	spatial		apudessive	apudessive	1	1	0	0	0			
+Khwarshi	Tsezic	hadal	721	together	abstract		interessive	interessive		1	0	0	0			
+Khwarshi	Tsezic	CL=oʎoʎ'o	722	in the middle	spatial		genitive	genitive		1	0	1	1	prefix		
+Khwarshi	Tsezic	CL=oʎonuq'a	723	in the center	spatial		inessive	inessive		1	0	1	1	prefix		
+Khwarshi	Tsezic	dandil	724	towards	spatial		genitive	genitive		1	1	0	0			
+Khwarshi	Tsezic	sabalɨn	725	because of	abstract		superessive	superessive		0	1	0	0			
+Khwarshi	Tsezic	sabalɨn	725	because of	abstract		absolutive	absolutive		0	1	0	0			
+Khwarshi	Tsezic	roqihol	726	according to	abstract		superessive	superessive		0	1	0	0			
+Khwarshi	Tsezic	žoho	727	behind	spatial		genitive	genitive	1	1	0	0	0			
+Khwarshi	Tsezic	žoho	727	for	abstract		genitive	genitive		1	0	0	0			
+Khwarshi	Tsezic	ħaq'eł	728	about	abstract						1	0	0			
+Bezhta	Tsezic	labza	729	for	abstract		dative	dative		0	0	0	0			
+Bezhta	Tsezic	ʎ'odo	730	above	spatial		superessive	superessive	1	1	0	0	0			
+Bezhta	Tsezic	ʎijo	731	below	spatial		dative	dative	1	1	0	0	0			
+Bezhta	Tsezic	ʎijo	731	below	spatial		subessive	subessive	1	1	0	0	0			
+Bezhta	Tsezic	maˁʁatːa	732	behind	spatial		apudessive	apudessive		1	0	0	0			
+Bezhta	Tsezic	hĩca	733	near	spatial		apudessive	apudessive		1	0	0	0			
+Bezhta	Tsezic	micaʔ	734	instead	abstract	noun	genitive	genitive		0	0	0	0			
+Bezhta	Tsezic	j=aʎo	735	among	spatial		inessive	inessive		1	0	1	1	prefix		
+Bezhta	Tsezic	req'on	736	according to	abstract		superessive	superessive		1	1	0	0			
+Bezhta	Tsezic	aˁdaˁ	737	before	spatial		adessive	adessive		1	0	0	0			
+Bezhta	Tsezic	aˁdaˁ	737	before	spatial		apudessive	apudessive		1	0	0	0			
+Bezhta	Tsezic	oˁloˁ	738	for	abstract		dative	dative		0	1	0	0			
+Bezhta	Tsezic	edo	739	inside	spatial		inessive	inessive		1	0	0	0			
+Bezhta	Tsezic	gisa	740	outside	spatial		inelative	inelative		1	0	0	0			
+Bezhta	Tsezic	q'ac'o	741	together	abstract		comitative	comitative		1	0	0	0			
+Bezhta	Tsezic	dande	742	against	spatial		dative	dative		1	1	0	0			
+Bezhta	Tsezic	šeblaʔ	743	beside	spatial	noun	genitive	genitive		1	0	0	0			
+Bezhta	Tsezic	šeblaʔ	743	beside	spatial	noun	apudessive	apudessive		1	0	0	0			
+Bezhta	Tsezic	son	744	around	spatial		comitative	comitative		1	0	0	0			
+Bezhta	Tsezic	son	744	around	spatial		apudessive	apudessive		1	0	0	0			
+Bezhta	Tsezic	gurogo	745	except	abstract		absolutive	absolutive		0	1	0	0			
+Bezhta	Tsezic	sababłun	746	because of	abstract		absolutive	absolutive		0	1	0	0			
+Bezhta	Tsezic	haˁq'aˁłuł	747	about	abstract		genitive	genitive		0	1	0	0			
+Bezhta	Tsezic	tiʁa	748	close to	spatial		adessive	adessive		1	0	0	0			
+Bezhta	Tsezic	tiʁa	748	close to	spatial		apudessive	apudessive		1	0	0	0			
+Bezhta	Tsezic	tiʁa	748	close to	spatial		contessive	contessive		1	0	0	0			
+Bezhta	Tsezic	aʔ	749	except	abstract		absolutive	absolutive		0	0	0	0			
+Bezhta	Tsezic	saʔ	750	except	abstract		dative	dative		0	0	0	0			
+Bezhta	Tsezic	daːla	751	because of	abstract		instrumental	instrumental		0	0	0	0			
+Bezhta	Tsezic	c'iχo	752	far from	spatial		adessive	adessive		1	0	0	0			
+Bezhta	Tsezic	muˁʁaˁʎ	753	following	spatial		comitative	comitative		1	0	0	0			
+Hunzib	Tsezic	art'o(do)	754	before	temporal		genitive	genitive	1	1	0	0	0			
+Hunzib	Tsezic	muǧáʎ	755	after	temporal		genitive	genitive	1	1	0	0	0			
+Hunzib	Tsezic	ʎ'odo	756	above	spatial		dative	dative	1	1	0	0	0			
+Hunzib	Tsezic	ʎ'odo	756	above	spatial		superessive	superessive	1	1	0	0	0			
+Hunzib	Tsezic	ʎirə	757	under	spatial		subessive	subessive	1	1	0	0	0			
+Hunzib	Tsezic	ẽdu	758	inside	spatial		dative	dative	1	1	0	0	0			
+Hunzib	Tsezic	gišo	759	translative in downward direction	spatial		comitative	comitative	1	1	0	0	0			
+Hunzib	Tsezic	gišo	759	translative in downward direction	spatial		dative	dative	1	1	0	0	0			
+Hunzib	Tsezic	rišo	760	translative in upward direction	spatial		comitative	comitative		1	0	0	0			
+Hunzib	Tsezic	rišo	760	translative in upward direction	spatial		dative	dative		1	0	0	0			
+Hunzib	Tsezic	tišo	761	translative in horizontal direction	spatial		comitative	comitative	1	1	0	0	0			
+Hunzib	Tsezic	tišo	761	translative in horizontal direction	spatial		dative	dative	1	1	0	0	0			
+Hunzib	Tsezic	səro	762	around	spatial		comitative	comitative	1	1	0	0	0			
+Hunzib	Tsezic	səro	762	around	spatial		contessive	contessive	1	1	0	0	0			
+Hunzib	Tsezic	iːčːo	763	near	spatial		comitative	comitative		1	0	0	0			
+Hunzib	Tsezic	č'ixːu	764	far from	spatial		comparative	comparative		1	0	0	0			
+Hunzib	Tsezic	ʎeʎ	765	together	abstract		comitative	comitative		1	0	0	0			
+Hunzib	Tsezic	ʕúlu(.sa)	766	because of	abstract		dative	dative		0	1	0	0			
+Hunzib	Tsezic	dandi	767	against	spatial		dative	dative		1	1	0	0			
+Hunzib	Tsezic	CL=aʎʎe	768	in the middle	spatial		inessive	inessive		1	0	1	1	prefix		
+Hunzib	Tsezic	ħaq'ałułuł	769	about	abstract		genitive	genitive		1	1	0	0			
+Tsez	Tsezic	purħo	770	beside	spatial		apudessive	apudessive		1	0	0	0			
+Tsez	Tsezic	ˁolo	771	because of	abstract		absolutive	absolutive		0	1	0	0			
+Tsez	Tsezic	dandi	772	against	spatial		subessive	subessive	1	1	1	0	0			
+Tsez	Tsezic	adaːz	773	in front of	spatial		inessive	inessive	1	1	0	0	0			
+Tsez	Tsezic	bitor	774	away	spatial		subablative	subablative		1	0	0	0			
+Tsez	Tsezic	bitor	774	because of	abstract		subablative	subablative		1	0	0	0			
+Tsez	Tsezic	q'ˁida	775	under	spatial		superessive	superessive		1	0	0	0			
+Tsez	Tsezic	šet'u	776	around	spatial		contessive	contessive	1	1	0	0	0			
+Tsez	Tsezic	soder	777	following	spatial		inelative	inelative		1	0	0	0			
+Tsez	Tsezic	xizaːz	778	behind	spatial		subessive	subessive	1	1	0	0	0			
+Tsez	Tsezic	sabablun	779	because of	abstract		absolutive	absolutive		0	1	0	0			
+Tsez	Tsezic	sabablun	779	because of	abstract		genitive	genitive		0	1	0	0			
+Tsez	Tsezic	madaħor	780	outside	spatial		inelative	inelative		1	0	0	0			
+Tsez	Tsezic	waˁłaj	781	below	spatial				1	1	0	0	0			
+Tsez	Tsezic	tełχor	782	into	spatial		inessive	inessive	1	1	0	0	0			
+Tsez	Tsezic	gurev	783	except	abstract					0	1	0	0			
+Tsez	Tsezic	sadaq	784	together	abstract		apudessive	apudessive		1	1	0	0			
+Tsez	Tsezic	taraw	785	except	abstract					0	1	0	0			
+Tsez	Tsezic	ʎ'iri	786	on	spatial		superessive	superessive	1	1	0	0	0			
+Tsez	Tsezic	CL=iłe	787	like	abstract		absolutive	absolutive		0	0	1	1	prefix		
+Khinalug	Khinalug	arar	788	among	spatial	noun	genitive2	genitive2	1	1	1	0	0			
+Khinalug	Khinalug	dalɨr	789	behind	spatial	noun	genitive1	genitive1	1	1	1	0	0			
+Khinalug	Khinalug	dibir	790	under	spatial	noun	genitive2	genitive2	1	0	1	0	0			
+Khinalug	Khinalug	ičir	791	inside	spatial	noun	genitive1	genitive1	1	1	1	0	0			
+Khinalug	Khinalug	qabaʁɨr	792	in front of	spatial	noun	genitive1	genitive1	1	1	1	0	0			
+Khinalug	Khinalug	qabaʁɨr	793	before	temporal	noun	comparative	comparative		1	1	0	0			
+Khinalug	Khinalug	haqɨr	794	about	abstract	noun	genitive1	genitive1		0	1	0	0			
+Khinalug	Khinalug	ystyr	795	above	spatial	noun	genitive1	genitive1	1	0	1	0	0			
+Khinalug	Khinalug	äväz	796	instead	abstract		genitive2	genitive2			0	0	0			
+Khinalug	Khinalug	totuχ	797	after	temporal		apudessive	apudessive		0	0	0	0			
+Khinalug	Khinalug	totuχ	797	after	temporal		comparative	comparative		0	0	0	0			
+Khinalug	Khinalug	koli	798	near	spatial		genitive1	genitive1	1	1	0	0	0			
+Khinalug	Khinalug	koli	798	near	spatial		possessive	possessive	1	1	0	0	0			
+Khinalug	Khinalug	dǯaʁ	799	following	spatial		genitive1	genitive1	1	0	0	0	0			
+Khinalug	Khinalug	k'anɨk'	800	under	spatial	noun	genitive1	genitive1	1	1	0	0	0			
+Khinalug	Khinalug	gus	801	above	spatial		genitive1	genitive1	1	1	0	0	0			
+Khinalug	Khinalug	lant'an	802	till	spatial		absolutive	absolutive		0	0	0	0			
+Khinalug	Khinalug	lant'an	802	till	spatial		apudessive	apudessive		0	0	0	0			
+Khinalug	Khinalug	čimi	803	for	abstract		apudessive	apudessive		0	0	0	0			
+Khinalug	Khinalug	herendaˁ	804	except	abstract		comparative	comparative			0	0	0			
+Khinalug	Khinalug	baraˁr	805	about	abstract		genitive1	genitive1		0	0	0	0			
+Khinalug	Khinalug	bašχa	806	except	abstract		apudessive	apudessive		0	1	0	0			
+Khinalug	Khinalug	bugːrɨ	807	beside	spatial	noun	genitive1	genitive1	1	1	0	0	0			
+Khinalug	Khinalug	zant'ɨni	808	till	spatial		apudessive	apudessive		0	0	0	0			
+Khinalug	Khinalug	inkːaˁχ	809	to	spatial	noun	absolutive	absolutive		0	0	0	0			
+Khinalug	Khinalug	ɢaraʁɨr	810	near	spatial	noun	genitive1	genitive1		0	0	0	0			
+Khinalug	Khinalug	ɢaršɨr	811	opposite	spatial	noun	genitive1	genitive1		0	1	0	0			
+Khinalug	Khinalug	k'iχ	812	following	spatial					1	0	0	0			
+Khinalug	Khinalug	miq'el	813	near	spatial	adjective	apudessive	apudessive		0	0	0	0			
+Khinalug	Khinalug	taltːɨka	814	after	temporal					1	0	0	0			
